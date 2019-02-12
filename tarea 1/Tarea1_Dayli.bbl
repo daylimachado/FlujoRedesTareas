@@ -1,0 +1,24 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Eli(2017)]{Elisa}
+\emph{Complejidad computacional de problemas y el análisis y diseño de
+  algoritmos}.
+\newblock 2017.
+
+\bibitem[Aric~Hagberg(2019)]{Net}
+Pieter~Swart Aric~Hagberg, Dan~Schult.
+\newblock \emph{NetworkX Reference, Release 2.3rc1.dev20190113142952}, 2019.
+
+\bibitem[Chakraborty et~al.(2018)Chakraborty, Dutta, Mondal, and Nath]{redes}
+Anwesha Chakraborty, Trina Dutta, Sushmita Mondal, and Asoke Nath.
+\newblock Application of graph theory in social media.
+\newblock \emph{INTERNATIONAL JOURNAL OF COMPUTER SCIENCES AND ENGINEERING},
+  6:\penalty0 722--729, 10 2018.
+\newblock \doi{10.26438/ijcse/v6i10.722729}.
+
+\end{thebibliography}

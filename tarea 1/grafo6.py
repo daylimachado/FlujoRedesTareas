@@ -16,8 +16,8 @@ node_a = {1,2}
 node_b = {3,4}
 node_ab = {5,6}
 node_o = {7,8}
-#node_on = {8}
-pos = nx.spring_layout(G)  # positions for all nodes
+
+pos = nx.spring_layout(G)  
 
 G.add_edges_from([(1,1), (8,1), (7,1), (2,1)])# Cada nodo es reflexivo pero no me sale la flechita
 G.add_edges_from([(2,2), (8,2)])#igualmente no sale el reflexivo en si mismo
@@ -35,15 +35,6 @@ nx.draw_networkx_nodes(G, pos, nodelist=node_o, node_size=800, node_color='r', n
 #nx.draw_networkx_nodes(G, pos, nodelist=node_o, node_size=800, node_color='r', node_shape='on', alpha=0.1)
 nx.draw_networkx_edges(G, pos, width=1, alpha=0.8, edge_color='black', )
 
-#labels = {}
-#labels[1] = r'$A+$'
-#labels[2] = r'$A-$'
-#labels[3] = r'$B+$'
-#labels[4] = r'$B-$'
-#labels[5] = r'$AB+$'
-#labels[6] = r'$AB-$'
-#labels[7] = r'$O+$'
-#labels[8] = r'$O-$'
 labels = {}
 labels[1] = r'A+'
 labels[2] = r'A-'

@@ -16,7 +16,7 @@ G.add_edge(4,5)
 pos = nx.spring_layout(G)
 nx.draw_networkx_nodes(G, pos, node_size=200, node_color='b', node_shape='o')
 nx.draw_networkx_edges(G, pos, width=1, alpha=0.8, edge_color='black')
-
+plt.axis('off')
 
 plt.savefig("imagenes/Fig04.eps")
 plt.show()

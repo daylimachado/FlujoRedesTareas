@@ -43,10 +43,11 @@
 
 Un grafo simple no dirigido acíclico, es aquel que no posee dirección en sus aristas, ni bucles, y por supuesto no es reflexivo.\cite{Elisa}
 
-Este tipo de grafos suele representarse por una secuencia de nodos unidos por aristas, donde de cada nodo generalmente solo sale o llega una arista.\cite{Net} En la práctica considero que este tipo de grafos puede emplearse para representar estructuras moleculares que sigan este comportamiento, por ejemplo, la representación de moléculas. Un ejemplo de estas molécules sería la representación de alcanos de tipo lineal, donde los átomos serían los nodos y los enlaces entre estos las aristas. Este tipo de moléculas seleccionadas no poseen ciclos, ni bucles en su representación.  Ver Figura \ref{fig:Fig01} en la página \pageref{fig:Fig01} donde se muestra la representación gráfica del mismo. 
+Este tipo de grafos suele representarse por una secuencia de nodos unidos por aristas, donde de cada nodo generalmente solo sale, o llega una arista.\cite{Net} 
+
+En la práctica considero que este tipo de grafos puede emplearse para representar estructuras moleculares que sigan este comportamiento, por ejemplo, la representación de moléculas. Un ejemplo de estas moléculas sería la representación de alcanos de tipo lineal, donde los átomos serían los nodos y los enlaces entre estos las aristas. Este tipo de moléculas seleccionadas no poseen ciclos, ni bucles en su representación.  Ver Figura \ref{fig:Fig01} en la página \pageref{fig:Fig01} donde se muestra la representación gráfica del mismo. 
 
 \lstinputlisting[language=Python]{Practica.py}
-
 
 \begin{figure}
     \centering
@@ -57,12 +58,14 @@ Este tipo de grafos suele representarse por una secuencia de nodos unidos por ar
 
 \section{Gráfo simple no dirigido cíclico}
 
-Un grafo simple no dirigido cíclico, es aquel que no posee dirección en sus aristas, pero si se forma un ciclo que represente una figuara cerrada que comience y termine en el mismo vertice, entonces es llamdo cíclico.\cite{redes}. En los grafos no dirigidos, el flujo puede fluir en ambas direcciones.
+Un grafo simple no dirigido cíclico, es aquel que no posee dirección en sus aristas, pero si se forma un ciclo que represente una figura cerrada que comience y termine en el mismo vértice, entonces es llamdo cíclico.\cite{redes}. En los grafos no dirigidos, el flujo puede fluir en ambas direcciones.
 
-Este tipo de grafos suele representarse por una secuencia de nodos unidos por aristas, pero estos pueden tener dentro un ciclo, o ser un ciclo en si mismo. En la practica, estos poseen multiples aplicaciones,por ejemplo pudiera decirse que la topología de redes circular, es un ejemplo de aplicación de este tipo de grafo, otro ejemplo pudiera ser la representación de las autopistas de una regiósn dada,o tambien la representacion de otro tipo de moleculas de alcanos, en este caso serían las de alcanos que se representan como ciclos, siendo el caso del ciclopentano por ejemplo, que serian cinco nodos unidos por aristas de manera circular. El ejemplo a representar se me ocurre que pudiera ser las llamdas que se realizan interdepartamentales en una muestra de tiempo de  la jornada laboral en una empresa determinada, supongamos el departamento de producción, de marketing, comercial, calidad y planificación de la producción, donde cada nodo representa un departamento dentro de la empresa o area de esta, y las aristas las llamadas que se realizan, estas pueden tener un compartamiento que al graficarlo represente un grafo simple no dirigido cíclico. Y su utilidad pudiera ser analizar el comportamiento del grafo para minimizar la cantidad de llamadas, o el tiempo de estas por ejemplo.   Ver Figura \ref{fig:Fig02} en la página \pageref{fig:Fig02} donde se muestra la representación gráfica del mismo. 
+Este tipo de grafos suele representarse por una secuencia de nodos unidos por aristas, pero estos pueden tener dentro un ciclo, o ser un ciclo en sí mismo. En la práctica, estos poseen múltiples aplicaciones, por ejemplo pudiera decirse que la topología de redes circular, es un ejemplo de aplicación de este tipo de grafo, otro ejemplo pudiera ser la representación de las autopistas de una región dada, o también la representación de otro tipo de moléculas de alcanos, en este caso serían las de alcanos que se representan como ciclos, siendo el caso del ciclo pentano por ejemplo, que serían cinco nodos unidos por aristas de manera circular. 
+
+El ejemplo a representar se me ocurre que pudiera ser, las llamadas que se realizan interdepartamentales en una muestra de tiempo de la jornada laboral en una empresa determinada, supongamos el departamento de producción, de marketing, comercial, calidad y planificación de la producción, donde cada nodo representa un departamento dentro de la empresa o área de esta, y las aristas las llamadas que se realizan, estas pueden tener un comportamiento que al graficarlo represente un grafo simple no dirigido cíclico. Y su utilidad pudiera ser analizar el comportamiento del grafo para minimizar la cantidad de llamadas, o el tiempo de estas por ejemplo.   Ver Figura \ref{fig:Fig02} en la página \pageref{fig:Fig02} donde se muestra la representación gráfica del mismo.
+
 
 \lstinputlisting[language=Python]{grafo2.py}
-
 
 \begin{figure}
     \centering
@@ -73,9 +76,9 @@ Este tipo de grafos suele representarse por una secuencia de nodos unidos por ar
 
 \section{Gráfo simple no dirigido reflexivo}
 
-Un grafo simple, en el cual  no se permiten aristas multiples, además será dirigido y reflexivo si no poseen dirección en sus aristas y reflexivo si cuenta al menos con un bucle, y este se refiere a una arista reflexiva, que existe coinciden el vértice de origen y el vértice de destino .\cite{Elisa}. 
+Un grafo simple, en el cual  no se permiten aristas multiples, además será no dirigido y reflexivo, si no poseen dirección en sus aristas y reflexivo si cuenta al menos con un bucle, lo que se refiere a una arista reflexiva en la que coinciden el vértice de origen y el vértice de destino .\cite{Elisa}. 
 
-Este grafo pudiera emplearse para representar el comportamiento del entrecruzamiento entre diferentes grupos raciales, donde cada grupo representa un nodo diferentea, pudiendo existir cruzamiento entre ellos, y las relaciones entre los gruppos son los hijos que tengan, es una relación no dirigida, a su vez dentro del grupo de la misma raza se pueden relacionar entre ellos mismos y estarían ocurriendo lazos reflexivos. Si se consideran los 4 grupos representativos de las razas según la clasificación de especialistas serían: Blanco/caucásico, asiático/mongoloide, negroide/negro y australoide, esta clasificacion posee dentro cada grupo una clasificación de hasta 30 subgrupos, pero solo se representarán los cuatro principales. Ver Figura \ref{fig:Fig03} en la página \pageref{fig:Fig03} donde se muestra la representación gráfica del mismo. 
+Este grafo pudiera emplearse para representar el comportamiento del entrecruzamiento entre diferentes grupos raciales, donde cada grupo representa un nodo diferente, pudiendo existir cruzamiento entre ellos, y las relaciones entre los grupos son los hijos que tengan, es una relación no dirigida, a su vez dentro del grupo de la misma raza se pueden relacionar entre ellos mismos y estarían ocurriendo lazos reflexivos. Si se consideran los 4 grupos representativos de las razas según la clasificación de especialistas serían: Blanco/caucásico, asiático/mongoloide, negroide/negro y australoide, esta clasificación posee dentro cada grupo una clasificación de hasta 30 subgrupos, pero solo se representarán los cuatro principales. Ver Figura \ref{fig:Fig03} en la página \pageref{fig:Fig03} donde se muestra la representación gráfica del mismo.
 
 \lstinputlisting[language=Python]{grafo3.py}
 
@@ -88,8 +91,10 @@ Este grafo pudiera emplearse para representar el comportamiento del entrecruzami
 
 \section{Gráfo simple dirigido acíclico}
 
-Un grafo simple dirigido acíclico, es aquel que posee una dirección en sus aristas, y no posee bucles o reflexividad, ni ciclos.\cite{Elisa}. 
-En este caso, ejemplos de la vida real serian aquellos que posean un origen del que puede salir una o varias aristas por diferentes caminos, sin que entre ellas existan ciclos y tengan un destino final diferente al del origen. Los árboles genealógicos, los organigramas en las empresas, el flujo de procesos industriales que no posean ciclos, que posean un inicio y un fin, pudieran resultar ser ejemplos de la vida real en los que se puede aplicar este tipo de grafos. Ver Figura \ref{fig:Fig04} en la página \pageref{fig:Fig04} donde se muestra la representación gráfica del mismo. 
+Un grafo simple dirigido acíclico, es aquel que posee una dirección en sus aristas, y no posee bucles o reflexividad, ni ciclos.\cite{Elisa}.
+ 
+En este caso, ejemplos de la vida real serian aquellos que posean un origen del que puede salir una o varias aristas por diferentes caminos, sin que entre ellas existan ciclos y tengan un destino final diferente al del origen. Los árboles genealógicos, los organigramas en las empresas, el flujo de procesos industriales que no posean ciclos, que posean un inicio y un fin, pudieran resultar ser ejemplos de la vida real en los que se puede aplicar este tipo de grafos. Ver Figura \ref{fig:Fig04} en la página \pageref{fig:Fig04} donde se muestra la representación gráfica del mismo.
+
 
 \lstinputlisting[language=Python]{grafo4.py}
 
@@ -103,8 +108,12 @@ En este caso, ejemplos de la vida real serian aquellos que posean un origen del 
 
 \section{Gráfo simple dirigido cíclico}
 
-Un grafo simple dirigido cíclico, es aquel que posee una dirección en sus aristas, y posee una figura cerrada que comienza y  termina en el mismo vertice.
-En este caso, ejemplos de la vida real serían aquellos que posean un origen del que puede salir una o varias aristas por diferentes caminos, y que en un determinado nodo regresen a alguno anterior de modo que se forme uno o mas ciclos. El destino final, deberá ser diferente al del origen. Como aplicación real de este tipo de grafo, puede ser el flujo de procesos industriales que no posean ciclos, que posean un inicio y un fin, por ejemplo la elaboración artesanal de jugo de naranja, al representar este proceso en un flujograma mediante un diagrama OPERIN, en el que se reflejen sus operaciones, una vez que se llegue al paso de exprimir las naranjas, se caería en un ciclo volviendo a la operacióna anterior de sleccionar otra y otra hasta cubrir la capacidad del extrator de jugo, en este caso las operaciones serían los nodos  y los enlances serían la transformación que va teniendo el objeto, en este ejemplo sería la naranja, en el tiempo, a lo largo del flujo de operaciones del proceso.Pudiera representarse como se muestra en la Figura \ref{fig:Fig05} en la página \pageref{fig:Fig05} donde se muestra la representación gráfica del mismo. 
+Un grafo simple dirigido cíclico, es aquel que posee una dirección en sus aristas, y posee una figura cerrada que comienza y  termina en el mismo vértice.
+
+En este caso, ejemplos de la vida real serían aquellos que posean un origen del que puede salir una o varias aristas por diferentes caminos, y que en un determinado nodo regresen a alguno anterior de modo que se forme uno o más ciclos. El destino final, deberá ser diferente al del origen. 
+
+Como aplicación real de este tipo de grafo, puede ser el flujo de procesos industriales o artesanales que posean ciclos, por ejemplo: la elaboración artesanal de jugo de naranja, al representar este proceso en un flujograma mediante un diagrama OPERIN, en el que se reflejen sus operaciones. Una vez que se llegue al paso de exprimir las naranjas, se caería en un ciclo volviendo a la operación anterior de seleccionar otra y otra naranja hasta cubrir toda la capacidad del extractor de jugo. En este ejemplo las operaciones serían los nodos  y los enlaces serían la transformación que va teniendo la naranja. Pudiera representarse como se muestra en la Figura \ref{fig:Fig05} en la página \pageref{fig:Fig05} donde se muestra la representación gráfica del mismo.
+
 
 \lstinputlisting[language=Python]{grafo5.py}
 
@@ -117,11 +126,11 @@ En este caso, ejemplos de la vida real serían aquellos que posean un origen del
 
 \section{Gráfo simple dirigido reflexivo}
 
-La diferencia con este grafo y el anterior reflexivo visto, es que en este caso las aristas si tienen sentido y el flujo que se analice debe ir en una dirección. En este caso deberá existir un nodo que se llame a si mismo, o sea, que posea al menos un bucle.
+La diferencia con este grafo y el anterior reflexivo visto, es que en este caso las aristas si tienen sentido y el flujo que se analice debe ir en una dirección. En este caso deberá existir un nodo que se llame a sí mismo, o sea, que posea al menos un bucle.
 
-Un ejemplo en el que pudiera emplearse la teoría de grafos, y que pudiera seguir un comportamiento dirigido reflexivo es al analizar entre personas de grupos sanguíneos diferentes, representar de quien pueden recibir sangre en función del tipo que posean. La reflexividad esta dada en en los casos en que cada grupo sanguíneo puede recibir de otros grupos y de si mismo, exepto el grupo O- que solo puede recibir del mismo tipo.
+Un ejemplo en el que pudiera emplearse la teoría de grafos, y que pudiera seguir un comportamiento dirigido reflexivo es al analizar entre personas de grupos sanguíneos diferentes, representar de quien pueden recibir sangre en función del tipo que posean. La reflexividad está dada en los casos en que cada grupo sanguíneo puede recibir de otros grupos y de sí mismo, excepto el grupo O- que solo puede recibir del mismo tipo.
 
-Pudiera representarse como se muestra en la Figura \ref{fig:Fig06} en la página \pageref{fig:Fig06} donde se muestra la representación gráfica del mismo. 
+Pudiera representarse como se muestra en la Figura \ref{fig:Fig06} en la página \pageref{fig:Fig06} donde se muestra la representación gráfica del mismo.
 
 \lstinputlisting[language=Python]{grafo6.py}
 
@@ -134,40 +143,42 @@ Pudiera representarse como se muestra en la Figura \ref{fig:Fig06} en la página
 
 \section{Multigrafo no dirigido acíclico}
 
-Cuando haya más de una arista entre un par de vértices, el grafo se llama multigrafo. Si no se permiten
-aristas múltiples, el grafo es simple.\cite{Elisa}. Será no dirigido cuando las aristas no poseen sentido restringido, sino que el flujo fluye en ambas direcciones, y en este caso no presenta ciclos.
+Cuando haya más de una arista entre un par de vértices, el grafo se llama multígrafo. Si no se permiten aristas múltiples, el grafo es simple.\cite{Elisa}. Será no dirigido cuando las aristas no poseen sentido restringido, sino que el flujo fluye en ambas direcciones, y en este caso no presenta ciclos.
 
-Un ejemplo practico de multigrafo no dirigido acíclico pudiera decirse que es la representación de determinados enlaces moleculares, como ejemplo pudiera citarse el tipo de elemento que posea un enlace doble éster. Para la representación de los elementos con este tipo de elance puede emplearse el grafo en cuestión. Especificamente pudiera decirse que la representación de éster sulfúrico pudiera representarse con este comportamiento,como se muestra en la Figura \ref{fig:Fig07} en la página \pageref{fig:Fig07} donde se muestra la representación gráfica del mismo. 
+Un ejemplo práctico de multígrafo no dirigido acíclico pudiera decirse que es la representación de determinados enlaces moleculares, como ejemplo pudiera citarse el tipo de elemento que posea un enlace doble éster. Para la representación de los elementos con este tipo de enlace puede emplearse el grafo en cuestión. Específicamente pudiera decirse que la representación de éster sulfúrico pudiera representarse con este comportamiento, como se muestra en la Figura \ref{fig:Fig07} en la página \pageref{fig:Fig07} donde se muestra la representación gráfica del mismo. 
+
 
 \lstinputlisting[language=Python]{grafo7.py}
 
 \begin{figure}
     \centering
     \includegraphics[scale=0.6]{imagenes/Fig07.eps}
-    \caption{Representación de gráfo simple dirigido reflexivo}
+    \caption{Representación de multigrafo no dirigido acíclico}
     \label{fig:Fig07}
 \end{figure}
 
 \section{Multigrafo no dirigido cíclico}
 
-Cuando haya más de una arista entre un par de vértices, el grafo se llama multigrafo. En este caso será no dirigido cuando las aristas no poseen sentido restringido, sino que el flujo fluye en ambas direcciones, y deberan existir zonas cerradas, osea, que regresen al nodo inicial.
+Cuando haya más de una arista entre un par de vértices, el grafo se llama multígrafo. En este caso será no dirigido cuando las aristas no poseen sentido restringido, sino que el flujo fluye en ambas direcciones, y deberán existir zonas cerradas, o sea, que regresen al nodo inicial.
 
-Este tipo de grafo es de gran utilidad para representar el comportamiento de redes sociales y neuronales por ejemplo. El ejemplo práctico que se me ocurre mostrar, es cuando tenemos necesidad de comunicarnos con alguien y las vías de comunicación que tenemos en la actualidad, donde cada vía de comunicación seleccionada tendrá un costo (peso), y existen muchas vías para comunicarnos con otras personas, y a su vez para que esa persona se comunique con nosotros, por lo que no es dirigido, pero sí cíclico, debido a los lazos que se pueden formar entre las personas que necesitan comunicarse. El ejemplo se restringe a solo dos vías de comunicación, ya sea por whatsap, o por llamadas telefónicas, aunque en la práctica existen muchas más. Este grafo se muestra en la Figura \ref{fig:Fig08} en la página \pageref{fig:Fig08} donde se muestra la representación gráfica del mismo. 
+Este tipo de grafo es de gran utilidad para representar el comportamiento de redes sociales y neuronales por ejemplo. 
+El ejemplo práctico que se me ocurre mostrar, es cuando tenemos necesidad de comunicarnos con alguien y las vías de comunicación que tenemos en la actualidad, donde cada vía de comunicación seleccionada tendrá un costo (peso), y existen muchas vías para comunicarnos con otras personas, y a su vez para que esa persona se comunique con nosotros, por lo que no es dirigido, pero sí cíclico, debido a los lazos que se pueden formar entre las personas que necesitan comunicarse. El ejemplo se restringe a solo dos vías de comunicación, ya sea por whatsap, o por llamadas telefónicas, aunque en la práctica existen muchas más. Este grafo se muestra en la Figura \ref{fig:Fig08} en la página \pageref{fig:Fig08} donde se muestra la representación gráfica del mismo.
 
 \lstinputlisting[language=Python]{grafo8.py}
 
 \begin{figure}
     \centering
     \includegraphics[scale=0.6]{imagenes/Fig08.eps}
-    \caption{Representación de gráfo simple dirigido reflexivo}
+    \caption{Representación de Multigrafo no dirigido cíclico}
     \label{fig:Fig08}
 \end{figure}
 
 \section{Multigrafo no dirigido reflexivo}
 
-Este caso se refiere a un multigrafo, en el que como se había mencionado existe más de una arista entre un par de vértices, sin dirección entre estas,pero de un nodo deben salir más de una arista que regresen al mismo nodo, sin pasar por otro.
+Este caso se refiere a un multígrafo, en el que como se había mencionado existe más de una arista entre un par de vértices, sin dirección entre estas, pero de un nodo deben salir más de una arista que regresen al mismo nodo, sin pasar por otro.
 
-Una aplicación pudiera ser la relación que existe entre los 12 signos zodiacales, donde cada nodo representa a las personas de un signo determinado y de cada uno de ellos puede salir una arista que represente las relaciones positivas entre los diferentes signos y otra las relaciones negativas, y a su vez las personas del mismo signo se relacionarán con sus iguales de manera positiva o negativa, lo que representa la reflexividad. Este grafo se muestra, para una muestra de 5 signos cualesquiera, en la Figura \ref{fig:Fig09} en la página \pageref{fig:Fig09} donde se muestra la representación gráfica del mismo. 
+Una aplicación pudiera ser la relación que existe entre 5 signos zodiacales, donde cada nodo representa a las personas de un signo determinado y de cada uno de ellos puede salir una arista que represente las relaciones positivas entre los diferentes signos y otra las relaciones negativas, y a su vez las personas del mismo signo se relacionarán con sus iguales de manera positiva o negativa, lo que representa la reflexibilidad. Este grafo se muestra, para una muestra de 5 signos cualesquiera, en la Figura \ref{fig:Fig09} en la página \pageref{fig:Fig09} donde se muestra la representación gráfica del mismo.
+
 
 \lstinputlisting[language=Python]{grafo9.py}
 
@@ -180,9 +191,9 @@ Una aplicación pudiera ser la relación que existe entre los 12 signos zodiacal
 
 \section{Multigrafo dirigido acíclico}
 
-Para este tipo de grafo debn existir más de una arista entre un par de nodos, con dirección y no debe formarse ninguna figura cerrada dentro del grafo. 
+Para este tipo de grafo deben existir más de una arista entre un par de nodos, con dirección y no debe formarse ninguna figura cerrada dentro del grafo. 
 
-Este ejemplo aplicado a la práctica pudiera ser la representación de un viajero que desea ir de una ciudad a otra para visitarlas y tiene que elegir entre varias rutas posibles para llegar, o pudiera elegir también entre diferentes medios de transporte para trasladarse entre las ciudades, o una combinación de ambos. En este caso las ciudades serían los nodos, y las rutas o medios de transporte posibles a elegir entre un nodo u otro serían las aristas. Una ruta pudiera ser ir de la la ciudad de Matanzas en Cuba, a la Habana, de esta a Monterrey, de Monterrey a Torreón y de ahí a Sinaloga. Este grafo se muestra en la Figura \ref{fig:Fig10} en la página \pageref{fig:Fig10} donde se muestra la representación gráfica del mismo. 
+Este ejemplo aplicado a la práctica pudiera ser la representación de un viajero que desea ir de una ciudad a otra para visitarlas y tiene que elegir entre varias rutas posibles para llegar, o pudiera elegir también entre diferentes medios de transporte para trasladarse entre las ciudades, o una combinación de ambos. En este caso las ciudades serían los nodos, y las rutas o medios de transporte posibles a elegir entre un nodo u otro serían las aristas. Una ruta pudiera ser ir de la ciudad de Matanzas en Cuba, a la Habana, de esta a Monterrey, de Monterrey a Torreón y de ahí a Sinaloa. Este grafo se muestra en la Figura \ref{fig:Fig10} en la página \pageref{fig:Fig10} donde se muestra la representación gráfica del mismo. 
 
 \lstinputlisting[language=Python]{grafo10.py}
 
@@ -196,6 +207,7 @@ Este ejemplo aplicado a la práctica pudiera ser la representación de un viajer
 \section{Multigrafo dirigido cíclico}
 
 Debe existir más de una arista entre un par de nodos, con dirección y además formarse al menos una figura cerrada dentro del grafo. 
+
 Un ejemplo que representa este tipo de grafo sería la representación del flujo que siguen los pacientes una vez que asisten a la consulta de cuerpo de guardia del ISSSTE, en la que las operaciones del proceso serían los nodos y la clasificación del tipo de paciente y su recorrido dentro de la instalación las aristas. En este caso el cliente al llegar pasa por la consulta de clasificación y ahí le asignan un color en función de la gravedad de su dolencia, se asumen tres colores, rojo, amarillo y verde, que van de mayor gravedad a menor respectivamente y de esta dependerá el tiempo de espera para pasar a la siguiente consulta donde se encuentra el doctor, existe tres consultas con doctores disponibles y de ahí pueden pasar al laboratorio, u a otras de las salas. Luego, del laboratorio pueden pasar nuevamente a la consulta del doctor para revisar los resultados y ocurriría un ciclo, o del doctor directo a la sala, luego al laboratorio y retornar nuevamente al doctor, y ocurriría otro ciclo. Este grafo se muestra en la Figura \ref{fig:Fig11} en la página \pageref{fig:Fig11} donde se muestra la representación gráfica del mismo. 
 
 \lstinputlisting[language=Python]{grafo11.py}
@@ -208,8 +220,11 @@ Un ejemplo que representa este tipo de grafo sería la representación del flujo
 \end{figure}
 
 \section{Multigrafo dirigido reflexivo}
-Debe existir más de una arista entre un par de nodos, con dirección y además cada nodo debe llamarse a si mismo.
-Un ejemplo en el que el empleo de la teoria de grafos como los que se analizan en esta sección puede emplearse es en el estudio de la influencia de la religión en la sociedad, como un subejemplo de la aplicación en redes sociales.\cite{redes}. Por ejemplo, si cada nodo es una persona religiosa creyente, ese nodo (persona) constantemente se realiza un autoexamen de conciencia a si mismo, evaluando cómo ha sido su actitud con respecto a las variables a analizar en este autoexamen, que pueden ser las doctrinas de cada religión, las cuales varian de una religión a otra, pero son más de una y pueden agruparse por categorias, estas variables representan las aristas, cada una puede tener un peso determinado según sea el interés del estudio, a su vez estas mismas doctrinas, convertidas en variable, serán las que cada persona creyente se encargará de transmitir a otras personas, pudiera decirse que se transmite el tipo de actitud que se debe tener ante cada una de estas variables de una persona creyente a otra, en este ejemplo se pudiera evaluar el impacto en un grupo poblacional que puede tener un tipo de creencia u otro, en la medida en que aumente la red. Una simplificación de este tipo de grafo se representa en la Figura \ref{fig:Fig12} en la página \pageref{fig:Fig12} donde se muestra la representación gráfica del mismo. 
+
+Debe existir más de una arista entre un par de nodos, con dirección y además cada nodo debe llamarse a sí mismo.
+
+Un ejemplo en el que el empleo de la teoría de grafos como los que se analizan en esta sección puede emplearse es en el estudio de la influencia de la religión en la sociedad, como un subejemplo de la aplicación en redes sociales.\cite{redes}. 
+Por ejemplo, si cada nodo es una persona religiosa creyente, ese nodo (persona) constantemente se realiza un autoexamen de conciencia a sí mismo, evaluando cómo ha sido su actitud con respecto a las variables a analizar en este autoexamen. Estas variables pueden ser operacionalizadas como cada una de las doctrinas de cada religión, las cuales varían de una religión a otra, pero son más de una y pueden agruparse por categorías. Estas variables representan las aristas, cada una puede tener un peso determinado según sea el interés del estudio, a su vez estas mismas doctrinas (convertidas en variable) serán las que cada persona creyente se encargará de transmitir a otras personas creyentes o no, pudiera decirse que se transmite el tipo de actitud que se debe tener ante cada una de estas variables de una persona a otra. En este ejemplo se puede evaluar el impacto en un grupo poblacional que puede tener un tipo de creencia u otro, en la medida en que aumente la red. Una simplificación de este tipo de grafo se representa en la Figura \ref{fig:Fig12} en la página \pageref{fig:Fig12} donde se muestra la representación gráfica del mismo.
 
 \lstinputlisting[language=Python]{grafo12.py}
 
