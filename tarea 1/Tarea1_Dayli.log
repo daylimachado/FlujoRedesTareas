@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.29)  11 FEB 2019 22:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=latex 2019.1.29)  12 FEB 2019 11:58
 entering extended mode
 **./Tarea1_Dayli.tex
 (Tarea1_Dayli.tex
@@ -67,10 +67,10 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: dvips.def on input line 99.
 
-("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\dvips.def"
+File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
 ))
 \Gin@req@height=\dimen104
 \Gin@req@width=\dimen105
@@ -113,8 +113,11 @@ Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: pdftex.def on input line 147.
-)
+Package color Info: Driver file: dvips.def on input line 147.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
 (C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2018/09/02 1.7 listings language file
 )
@@ -138,68 +141,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Info: Redefining \. on input line 35.
 LaTeX Info: Redefining \% on input line 35.
-
-(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/context/base\supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count100
-\scratchdimen=\dimen110
-\scratchbox=\box29
-\nofMPsegments=\count101
-\nofMParguments=\count102
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count103
-\MPscratchDim=\dimen111
-\MPnumerator=\count104
-\makeMPintoPDFobject=\count105
-\everyMPtoPDFconversion=\toks18
-) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)))
-("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-))))
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
-)
-\c@lstlisting=\count106
+\c@lstlisting=\count100
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -207,287 +149,49 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 40.
  (Practica.py)
-Package epstopdf Info: Source file: <imagenes/Fig01.eps>
-(epstopdf)                    date: 2019-02-11 22:01:54
-(epstopdf)                    size: 1933 bytes
-(epstopdf)             Output file: <imagenes/Fig01-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-11 22:02:38
-(epstopdf)                    size: 3332 bytes
-(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig01-eps-converte
-d-to.pdf imagenes/Fig01.eps>
-(epstopdf)             \includegraphics on input line 54.
-Package epstopdf Info: Output file is already uptodate.
+File: imagenes/Fig01.eps Graphic file (type eps)
+ <imagenes/Fig01.eps> [1
 
+] (grafo2.py [2])
+File: imagenes/Fig02.eps Graphic file (type eps)
 
-pdfTeX warning: pdflatex (file ./imagenes/Fig01-eps-converted-to.pdf): PDF incl
-usion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Fig01-eps-converted-to.pdf, id=1, 433.62pt x 289.08pt>
-File: imagenes/Fig01-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Fig01-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Fig01-eps-converted-to.pdf  used on input lin
-e 54.
-(pdftex.def)             Requested size: 173.44492pt x 115.62994pt.
-[1
+<imagenes/Fig02.eps> [3] (grafo3.py [4])
+File: imagenes/Fig03.eps Graphic file (type eps)
+ <imagenes/Fig03.eps> (grafo4.py
+[5])
+File: imagenes/Fig04.eps Graphic file (type eps)
+ <imagenes/Fig04.eps> [6] (grafo5.py)
+File: imagenes/Fig05.eps Graphic file (type eps)
+ <imagenes/Fig05.eps> [7] (grafo6.py
+[8]) [9]
+File: imagenes/Fig06.eps Graphic file (type eps)
+ <imagenes/Fig06.eps> (grafo7.py [10])
+File: imagenes/Fig07.eps Graphic file (type eps)
+ <imagenes/Fig07.eps> [11]
+(grafo8.py [12])
+File: imagenes/Fig08.eps Graphic file (type eps)
+ <imagenes/Fig08.eps> [13] (grafo9.py [14] [15])
+File: imagenes/Fig09.eps Graphic file (type eps)
 
-{C:/Users/lapi7/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(grafo2.py [2 <./imagenes/Fig01-eps-converted-to.pdf>])
-Package epstopdf Info: Source file: <imagenes/Fig02.eps>
-(epstopdf)                    date: 2019-02-11 22:07:15
-(epstopdf)                    size: 11085 bytes
-(epstopdf)             Output file: <imagenes/Fig02-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-11 22:07:25
-(epstopdf)                    size: 8876 bytes
-(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig02-eps-converte
-d-to.pdf imagenes/Fig02.eps>
-(epstopdf)             \includegraphics on input line 72.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: pdflatex (file ./imagenes/Fig02-eps-converted-to.pdf): PDF incl
-usion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Fig02-eps-converted-to.pdf, id=16, 433.62pt x 289.08pt>
-File: imagenes/Fig02-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Fig02-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Fig02-eps-converted-to.pdf  used on input lin
-e 72.
-(pdftex.def)             Requested size: 173.44492pt x 115.62994pt.
-[3 <./imagenes/Fig02-eps-converted-to.pdf>] (grafo3.py [4])
-Package epstopdf Info: Source file: <imagenes/Fig03.eps>
-(epstopdf)                    date: 2019-02-11 22:18:36
-(epstopdf)                    size: 14612 bytes
-(epstopdf)             Output file: <imagenes/Fig03-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-11 22:20:08
-(epstopdf)                    size: 9149 bytes
-(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig03-eps-converte
-d-to.pdf imagenes/Fig03.eps>
-(epstopdf)             \includegraphics on input line 87.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: pdflatex (file ./imagenes/Fig03-eps-converted-to.pdf): PDF incl
-usion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Fig03-eps-converted-to.pdf, id=43, 382.42876pt x 249.93375pt>
-File: imagenes/Fig03-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Fig03-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Fig03-eps-converted-to.pdf  used on input lin
-e 87.
-(pdftex.def)             Requested size: 152.96878pt x 99.97173pt.
-(grafo4.py [5 <./imagenes/Fig03-eps-converted-to.pdf>])
-Package epstopdf Info: Source file: <imagenes/Fig04.eps>
-(epstopdf)                    date: 2019-02-11 22:21:27
-(epstopdf)                    size: 2799 bytes
-(epstopdf)             Output file: <imagenes/Fig04-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-11 22:22:42
-(epstopdf)                    size: 3511 bytes
-(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig04-eps-converte
-d-to.pdf imagenes/Fig04.eps>
-(epstopdf)             \includegraphics on input line 103.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: pdflatex (file ./imagenes/Fig04-eps-converted-to.pdf): PDF incl
-usion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Fig04-eps-converted-to.pdf, id=67, 433.62pt x 289.08pt>
-File: imagenes/Fig04-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Fig04-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Fig04-eps-converted-to.pdf  used on input lin
-e 103.
-(pdftex.def)             Requested size: 173.44492pt x 115.62994pt.
-[6 <./imagenes/Fig04-eps-converted-to.pdf>] (grafo5.py)
-Package epstopdf Info: Source file: <imagenes/Fig05.eps>
-(epstopdf)                    date: 2019-02-11 22:21:21
-(epstopdf)                    size: 12417 bytes
-(epstopdf)             Output file: <imagenes/Fig05-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-11 22:22:43
-(epstopdf)                    size: 7498 bytes
-(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig05-eps-converte
-d-to.pdf imagenes/Fig05.eps>
-(epstopdf)             \includegraphics on input line 122.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: pdflatex (file ./imagenes/Fig05-eps-converted-to.pdf): PDF incl
-usion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Fig05-eps-converted-to.pdf, id=73, 433.62pt x 289.08pt>
-File: imagenes/Fig05-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Fig05-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Fig05-eps-converted-to.pdf  used on input lin
-e 122.
-(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
-[7] (grafo6.py [8 <./imagenes/Fig05-eps-converted-to.pdf>]) [9]
-Package epstopdf Info: Source file: <imagenes/Fig06.eps>
-(epstopdf)                    date: 2019-02-11 22:29:26
-(epstopdf)                    size: 15070 bytes
-(epstopdf)             Output file: <imagenes/Fig06-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-11 22:31:14
-(epstopdf)                    size: 6811 bytes
-(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig06-eps-converte
-d-to.pdf imagenes/Fig06.eps>
-(epstopdf)             \includegraphics on input line 139.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: pdflatex (file ./imagenes/Fig06-eps-converted-to.pdf): PDF incl
-usion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Fig06-eps-converted-to.pdf, id=98, 433.62pt x 289.08pt>
-File: imagenes/Fig06-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Fig06-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Fig06-eps-converted-to.pdf  used on input lin
-e 139.
-(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
-(grafo7.py [10 <./imagenes/Fig06-eps-converted-to.pdf>])
-Package epstopdf Info: Source file: <imagenes/Fig07.eps>
-(epstopdf)                    date: 2019-02-11 22:29:30
-(epstopdf)                    size: 7889 bytes
-(epstopdf)             Output file: <imagenes/Fig07-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-11 22:31:14
-(epstopdf)                    size: 5905 bytes
-(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig07-eps-converte
-d-to.pdf imagenes/Fig07.eps>
-(epstopdf)             \includegraphics on input line 155.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: pdflatex (file ./imagenes/Fig07-eps-converted-to.pdf): PDF incl
-usion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Fig07-eps-converted-to.pdf, id=111, 433.62pt x 289.08pt>
-File: imagenes/Fig07-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Fig07-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Fig07-eps-converted-to.pdf  used on input lin
-e 155.
-(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
-[11] (grafo8.py [12 <./imagenes/Fig07-eps-converted-to.pdf>])
-Package epstopdf Info: Source file: <imagenes/Fig08.eps>
-(epstopdf)                    date: 2019-02-11 22:37:54
-(epstopdf)                    size: 2955 bytes
-(epstopdf)             Output file: <imagenes/Fig08-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-11 22:38:09
-(epstopdf)                    size: 3357 bytes
-(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig08-eps-converte
-d-to.pdf imagenes/Fig08.eps>
-(epstopdf)             \includegraphics on input line 171.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: pdflatex (file ./imagenes/Fig08-eps-converted-to.pdf): PDF incl
-usion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Fig08-eps-converted-to.pdf, id=127, 433.62pt x 289.08pt>
-File: imagenes/Fig08-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Fig08-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Fig08-eps-converted-to.pdf  used on input lin
-e 171.
-(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
-[13] (grafo9.py [14 <./imagenes/Fig08-eps-converted-to.pdf>] [15])
-Package epstopdf Info: Source file: <imagenes/Fig09.eps>
-(epstopdf)                    date: 2019-02-11 22:41:41
-(epstopdf)                    size: 5883 bytes
-(epstopdf)             Output file: <imagenes/Fig09-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-11 22:42:49
-(epstopdf)                    size: 3442 bytes
-(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig09-eps-converte
-d-to.pdf imagenes/Fig09.eps>
-(epstopdf)             \includegraphics on input line 187.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: pdflatex (file ./imagenes/Fig09-eps-converted-to.pdf): PDF incl
-usion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Fig09-eps-converted-to.pdf, id=140, 433.62pt x 289.08pt>
-File: imagenes/Fig09-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Fig09-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Fig09-eps-converted-to.pdf  used on input lin
-e 187.
-(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
-(grafo10.py [16 <./imagenes/Fig09-eps-converted-to.pdf>])
-Package epstopdf Info: Source file: <imagenes/Fig10.eps>
-(epstopdf)                    date: 2019-02-11 22:42:28
-(epstopdf)                    size: 11916 bytes
-(epstopdf)             Output file: <imagenes/Fig10-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-11 22:42:50
-(epstopdf)                    size: 8413 bytes
-(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig10-eps-converte
-d-to.pdf imagenes/Fig10.eps>
-(epstopdf)             \includegraphics on input line 202.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: pdflatex (file ./imagenes/Fig10-eps-converted-to.pdf): PDF incl
-usion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Fig10-eps-converted-to.pdf, id=146, 433.62pt x 289.08pt>
-File: imagenes/Fig10-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Fig10-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Fig10-eps-converted-to.pdf  used on input lin
-e 202.
-(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
-[17] (grafo11.py [18 <./imagenes/Fig10-eps-converted-to.pdf>])
-Package epstopdf Info: Source file: <imagenes/Fig11.eps>
-(epstopdf)                    date: 2019-02-11 22:46:28
-(epstopdf)                    size: 9661 bytes
-(epstopdf)             Output file: <imagenes/Fig11-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-11 22:47:08
-(epstopdf)                    size: 6652 bytes
-(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig11-eps-converte
-d-to.pdf imagenes/Fig11.eps>
-(epstopdf)             \includegraphics on input line 217.
-Package epstopdf Info: Output file is already uptodate.
-
-
-pdfTeX warning: pdflatex (file ./imagenes/Fig11-eps-converted-to.pdf): PDF incl
-usion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Fig11-eps-converted-to.pdf, id=170, 433.62pt x 289.08pt>
-File: imagenes/Fig11-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Fig11-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Fig11-eps-converted-to.pdf  used on input lin
-e 217.
-(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
-[19] (grafo12.py [20 <./imagenes/Fig11-eps-converted-to.pdf>] [21])
-Package epstopdf Info: Source file: <imagenes/Fig12.eps>
-(epstopdf)                    date: 2019-02-11 22:52:40
-(epstopdf)                    size: 8378 bytes
-(epstopdf)             Output file: <imagenes/Fig12-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-11 18:57:37
-(epstopdf)                    size: 4058 bytes
-(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig12-eps-converte
-d-to.pdf imagenes/Fig12.eps>
-(epstopdf)             \includegraphics on input line 233.
-runsystem(epstopdf --outfile=imagenes/Fig12-eps-converted-to.pdf imagenes/Fig12
-.eps)...executed (allowed).
-
-Package epstopdf Info: Result file: <imagenes/Fig12-eps-converted-to.pdf>
-(epstopdf)                    date: 2019-02-11 22:52:59
-(epstopdf)                    size: 3984 bytes.
-
-
-pdfTeX warning: pdflatex (file ./imagenes/Fig12-eps-converted-to.pdf): PDF incl
-usion: found PDF version <1.7>, but at most version <1.5> allowed
-<imagenes/Fig12-eps-converted-to.pdf, id=192, 433.62pt x 289.08pt>
-File: imagenes/Fig12-eps-converted-to.pdf Graphic file (type pdf)
-<use imagenes/Fig12-eps-converted-to.pdf>
-Package pdftex.def Info: imagenes/Fig12-eps-converted-to.pdf  used on input lin
-e 233.
-(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
-(Tarea1_Dayli.bbl) [22 <./imagenes/Fig12-eps-converted-to.pdf>]
-(Tarea1_Dayli.aux
+<imagenes/Fig09.eps> (grafo10.py [16])
+File: imagenes/Fig10.eps Graphic file (type eps)
+ <imagenes/Fig10.eps> [17] (grafo11.py
+[18])
+File: imagenes/Fig11.eps Graphic file (type eps)
+ <imagenes/Fig11.eps> [19] (grafo12.py [20] [21])
+File: imagenes/Fig12.eps Graphic file (type eps)
+ <imagenes/Fig12.eps>
+(Tarea1_Dayli.bbl) [22] (Tarea1_Dayli.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 ) ) 
 Here is how much of TeX's memory you used:
- 4681 strings out of 492946
- 64577 string characters out of 3135527
- 359140 words of memory out of 3000000
- 8491 multiletter control sequences out of 15000+200000
+ 3885 strings out of 492947
+ 50761 string characters out of 3135553
+ 357745 words of memory out of 3000000
+ 7735 multiletter control sequences out of 15000+200000
  8092 words of font info for 29 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,7n,40p,1193b,1688s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmtt9.pfb>
-Output written on Tarea1_Dayli.pdf (22 pages, 180175 bytes).
-PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 27i,6n,40p,1193b,1688s stack positions out of 5000i,500n,10000p,200000b,50000s
 
+Output written on Tarea1_Dayli.dvi (22 pages, 98776 bytes).
