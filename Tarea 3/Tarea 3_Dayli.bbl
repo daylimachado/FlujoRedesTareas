@@ -1,0 +1,43 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[NetworkX({\natexlab{a}})]{bc}
+Desarrolladores NetworkX.
+\newblock
+  \url{ttps://networkx.github.io/documentation/networkx-1.10/reference/generated/networkx.algorithms.centrality.betweenness_centrality.html},
+  {\natexlab{a}}.
+\newblock Accessed: 2019-03-10.
+
+\bibitem[NetworkX({\natexlab{b}})]{bccentralidad}
+Desarrolladores NetworkX.
+\newblock
+  \url{ttps://networkx.github.io/documentation/networkx-1.10/_modules/networkx/algorithms/centrality/betweenness.html.betweenness_centrality},
+  {\natexlab{b}}.
+\newblock Accessed: 2019-03-18.
+
+\bibitem[NetworkX({\natexlab{c}})]{gredy}
+Desarrolladores NetworkX.
+\newblock
+  \url{ttps://networkx.github.io/documentation/networkx-1.10/_modules/networkx/algorithms/coloring/greedy_coloring.html#greedy_color},
+  {\natexlab{c}}.
+\newblock Accessed: 2019-03-17.
+
+\bibitem[NetworkX({\natexlab{d}})]{mf}
+Desarrolladores NetworkX.
+\newblock
+  \url{ttps://networkx.github.io/documentation/networkx-1.10/reference/generated/networkx.algorithms.flow.maximum_flow.html},
+  {\natexlab{d}}.
+\newblock Accessed: 2019-03-17.
+
+\bibitem[NetworkX({\natexlab{e}})]{min}
+Desarrolladores NetworkX.
+\newblock
+  \url{ttps://networkx.github.io/documentation/networkx-1.10/reference/generated/networkx.algorithms.mst.minimum_spanning_tree.html},
+  {\natexlab{e}}.
+\newblock Accessed: 2019-03-17.
+
+\end{thebibliography}
