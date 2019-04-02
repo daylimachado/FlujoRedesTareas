@@ -1,0 +1,4 @@
+group1,group2,meandiff,lower,upper,reject
+connected_watts_strogatz_graph,newman_watts_strogatz_graph,0.0948,0.0267,0.163,True
+connected_watts_strogatz_graph,watts_strogatz_graph,0.0159,-0.0522,0.084,False
+newman_watts_strogatz_graph,watts_strogatz_graph,-0.0789,-0.147,-0.0108,True

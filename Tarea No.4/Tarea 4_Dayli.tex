@@ -1,0 +1,407 @@
+
+
+\documentclass{article}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{listings}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3mm}
+\usepackage[numbers]{natbib}
+\usepackage{color}
+\usepackage{booktabs}
+%\usepackage{subfigure}
+%\usepackage{subcaption}
+\usepackage{graphicx,subcaption}
+\usepackage{wasysym}
+
+%\usepackage{indentfirst} for APA margins and French indention
+\usepackage{url}
+%-------------------------------------------------------------------------------
+% Configuring customized document margins
+%-------------------------------------------------------------------------------
+\usepackage{geometry}
+%\addtolength{\oddsidemargin}{-.75in}
+%\addtolength{\evensidemargin}{-.75in}
+%\addtolength{\textwidth}{1.4in}
+%
+%\addtolength{\topmargin}{-0.25in}
+%\addtolength{\textheight}{1.65in}
+
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.5,0.5,0.5}
+\definecolor{mymauve}{rgb}{0.58,0,0.82}
+\lstset{ 
+  backgroundcolor=\color{white},   % choose the background color; you must add \usepackage{color} or \usepackage{xcolor}; should come as last argument
+  basicstyle=\footnotesize,        % the size of the fonts that are used for the code
+  breakatwhitespace=false,         % sets if automatic breaks should only happen at whitespace
+  breaklines=true,                 % sets automatic line breaking
+  captionpos=b,                    % sets the caption-position to bottom
+  commentstyle=\color{mygreen},    % comment style
+  deletekeywords={...},            % if you want to delete keywords from the given language
+  escapeinside={\%}{)},          % if you want to add LaTeX within your code
+  extendedchars=true,              % lets you use non-ASCII characters; for 8-bits encodings only, does not work with UTF-8
+  firstnumber=1,                % start line enumeration with line 1000
+  frame=single,	                   % adds a frame around the code
+  keepspaces=true,                 % keeps spaces in text, useful for keeping indentation of code (possibly needs columns=flexible)
+  keywordstyle=\color{blue},       % keyword style
+  language=Octave,                 % the language of the code
+  morekeywords={*,...},            % if you want to add more keywords to the set
+  numbers=left,                    % where to put the line-numbers; possible values are (none, left, right)
+  numbersep=5pt,                   % how far the line-numbers are from the code
+  numberstyle=\tiny\color{mygray}, % the style that is used for the line-numbers
+  rulecolor=\color{black},         % if not set, the frame-color may be changed on line-breaks within not-black text (e.g. comments (green here))
+  showspaces=false,                % show spaces everywhere adding particular underscores; it overrides 'showstringspaces'
+  showstringspaces=false,          % underline spaces within strings only
+  showtabs=false,                  % show tabs within strings adding particular underscores
+  stepnumber=1,                    % the step between two line-numbers. If it's 1, each line will be numbered
+  stringstyle=\color{mymauve},     % string literal style
+  tabsize=2,	                   % sets default tabsize to 2 spaces
+  title=\lstname                  % show the filename of files included with \lstinputlisting; also try caption instead of title
+}
+
+
+
+\begin{document}
+
+\title{Tarea No.4: Flujo en Redes}
+\author{Dayli Machado (5275)}
+\date{\today}
+\maketitle
+
+\section{Objetivo}
+
+Determinar mediante un diseño de experimentos empleando el análisis de varianzas de un factor y otras pruebas estadísticas la influencia que puede tener en la variable dependiente\textit{ tiempo de ejecución}, el  orden y la densidad del grafo así como el generador de grafos y el algoritmo de flujo máximo seleccionado.
+
+\section{Generador de grafos, algoritmos de flujo máximo empleados y generación del .csv }
+
+De los tipos de generador de grafos se seleccionaron los generadores aleatorios y dentro de estos el grupo de tres modelos de generadores de grafos desarrollados por los autores \textit{Watts–Strogatz}\cite{generadoraws}. Estos permiten de una forma relativamente sencilla y con menor número de parámetros generar los grafos. Una propiedad importante de estos tres generadores de grafos es que se desarrollan bajo la teoría de red de mundos pequeños, bajo esta teoría se crean nodos principales los cuales están alejados entre sí y generalmente se grafican más grandes que los demás, alrededor de estos se crean nodos que sí son vecinos entre sí y se grafican con tamaños más pequeños, de esta manera se garantiza la propiedad de crear grupos dentro del mismo grafo permitiendo que sea relativamente fácil realizar la visita entre todos los nodos. Esta propiedad refleja mejor el comportamiento de fenómenos reales como las redes eléctricas, neuronales y sociales. Otra propiedad de estos generadores de grafos es que la distancia esperada entre dos nodos elegidos al azar crece de manera proporcional al logaritmo de la cantidad de nodos de la red mientras no se trate de los nodos que están más agrupados, propiedad que detectaron los creadores a partir del comportamiento real de diferentes fenómenos\cite{wys}.De ahí que los generadores de grafos seleccionados fueron los siguientes:
+
+\begin{itemize}
+\item \textit{grafo de watts strogatz newman }
+\item \textit{grafo de watts strogatz }
+\item \textit{grafo de watts strogatz conectado}
+\end{itemize}
+%%\newpage
+%\lstinputlisting[language=Python, firstline=9, lastline=58]{codigomadre.py}
+
+Los algoritmos de flujo máximo seleccionados fueron los siguientes:
+\begin{itemize}
+\item \textit{Algoritmo Boykov-Kolmogorov }
+\item \textit{Algoritmo de flujo máximo}
+\item \textit{Algoritmo Edmonds-Karp}
+\end{itemize} 
+
+
+El algoritmo de máximo flujo determina la ruta a través de la cual puede pasar el máximo flujo, de ahí que uno de los parámetros que requiere es la capacidad, y un su defecto la asume como infinita \cite{mf}. Se recomienda emplearlo en grafos dirigidos pero funciona también para no dirigidos.
+
+El algoritmo de \textit{Boykov-Kolmogorov} encuentra el flujo máximo de un sólo producto este devuelve la red residual resultante después de calcular el flujo máximo, debe tener capacidad en sus pesos sino los toma como infinitos \cite{bk}. Se recomienda para grafos dirigidos, aunque puede emplearse también para no dirigidos. 
+
+El algoritmo de \textit{Edmonds-Karp} calcula el flujo máximo de un producto y además devuelve la red residual del mismo, debe emplearse con grafos dirigidos aunque también se emplea para no dirigidos. Al igual que los anteriores debe asignarse una capacidad sino la toma como infinita \cite{ek}.
+
+A continuación se muestra el fragmento de código desarrollado para generar los grafos empleando los diferentes algoritmos:
+
+\newpage
+\lstinputlisting[language=Python, firstline=12, lastline=18]{Tarea4csvfinal.py}
+\lstinputlisting[language=Python, firstline=33, lastline=34]{Tarea4csvfinal.py}
+
+En el siguiente fragmento se muestra como se ha desarrollado el código para asignar el peso normalmente distribuido a los ejes, apoyándose en \cite{tutorialpython}.
+
+\lstinputlisting[language=Python, firstline=50, lastline=72]{Tarea4csvfinal.py}
+
+Después se genera el .csv con la siguiente estructura:
+\newpage
+\lstinputlisting[language=Python, firstline=80, lastline=91]{Tarea4csvfinal.py}
+
+Con los datos generados se pasa a realizar el análsis estadístico de los mismos.
+
+
+\section{Análisis de varianza (ANOVA), prueba de \textit{Tukey} y relación general entre factores} 
+
+Para realizar el análisis del comportamiento de la variable dependiente \textit{tiempo de ejecución} con respecto a cada factor a analizar se realizó un análisis de varianza (ANOVA) para cada factor.
+
+En el caso del análisis de la densidad vs \textit{tiempo de ejecución} se convirtieron los valores de densidad  a rangos de valores genéricos, para ello se realizó un histograma para dividir los rangos y llevarlos a una escala cualitativa en correspondencia con el arreglo obtenido del\textit{bins}. El arreglo se muestra en el cuadro siguiente y el histograma en la figura \ref{fig:Fig1} de la página \pageref{fig:Fig1}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[scale=0.6]{Imagenes/Histogramadensidad.eps}
+    \caption{Histograma para determinar escala de densidad}
+    \label{fig:Fig1}
+\end{figure}
+
+Visualmente del histograma es complejo identificar los rangos correctos para establecer la escala, por lo que se trabajó con el arreglo de rangos que devuelve el histograma siguiente:
+
+% Table generated by Excel2LaTeX from sheet 'Arreglodensid'
+\begin{table}[htbp]
+  \centering
+  \caption{Arreglo para los rangos de densidad}
+    \begin{tabular}{cccc}
+    \toprule
+    0.0656 & 0.0713 & 0.077 & 0.0827 \\
+    \bottomrule
+    \end{tabular}%
+  \label{tab:addlabel}%
+\end{table}%
+
+A continuación se muestran los cuadros que resumen el resultado del ANOVA para cada factor:
+
+% Table generated by Excel2LaTeX from sheet 'Tabla_ANOVAalgoritmo_flujo'
+\begin{table}[htbp]
+  \centering
+  \caption{ANOVA del tiempo de ejecución vs algoritmo de flujo}
+    \begin{tabular}{lrrrlll}
+    \toprule
+    \textbf{Source} & \multicolumn{1}{l}{\textbf{SS}} & \multicolumn{1}{l}{\textbf{DF}} & \multicolumn{1}{l}{\textbf{MS}} & \textbf{F} & \textbf{p-unc} & \textbf{np2} \\
+    \midrule
+    algoritmo\_flujo & 1.76  & 2     & 0.88  & \multicolumn{1}{r}{3.468} & \multicolumn{1}{r}{0.03137659} & \multicolumn{1}{r}{0.004} \\
+    Within & 455.998 & 1797  & 0.254 & -     & -     & - \\
+    \bottomrule
+    \end{tabular}%
+  \label{tab:addlabel}%
+\end{table}%
+
+% Table generated by Excel2LaTeX from sheet 'Tabla_ANOVAconvlogdensidad'
+\begin{table}[htbp]
+  \centering
+  \caption{ANOVA del tiempo de ejecución vs densidad del grafo}
+    \begin{tabular}{lrrrlll}
+    \toprule
+    \textbf{Source} & \multicolumn{1}{l}{\textbf{SS}} & \multicolumn{1}{l}{\textbf{DF}} & \multicolumn{1}{l}{\textbf{MS}} & \textbf{F} & \textbf{p-unc} & \textbf{np2} \\
+    \midrule
+    convlogdensidad & 61.569 & 2     & 30.784 & \multicolumn{1}{r}{139.629} & \multicolumn{1}{r}{4.31E-57} & \multicolumn{1}{r}{0.135} \\
+    Within & 396.19 & 1797  & 0.22  & -     & -     & - \\
+    \bottomrule
+    \end{tabular}%
+  \label{tab:addlabel}%
+\end{table}%
+
+% Table generated by Excel2LaTeX from sheet 'Tabla_ANOVAgenerador'
+\begin{table}[htbp]
+  \centering
+  \caption{ANOVA del tiempo de ejecución vs generador}
+    \begin{tabular}{lrrrlll}
+    \toprule
+    \textbf{Source} & \multicolumn{1}{l}{\textbf{SS}} & \multicolumn{1}{l}{\textbf{DF}} & \multicolumn{1}{l}{\textbf{MS}} & \textbf{F} & \textbf{p-unc} & \textbf{np2} \\
+    \midrule
+    generador & 3.095 & 2     & 1.547 & \multicolumn{1}{r}{6.116} & \multicolumn{1}{r}{0.00225312} & \multicolumn{1}{r}{0.007} \\
+    Within & 454.664 & 1797  & 0.253 & -     & -     & - \\
+    \bottomrule
+    \end{tabular}%
+  \label{tab:addlabel}%
+\end{table}%
+
+
+% Table generated by Excel2LaTeX from sheet 'Tabla_ANOVAvertices'
+\begin{table}[htbp]
+  \centering
+  \caption{ANOVA del tiempo de ejecución vs vértices}
+    \begin{tabular}{lrrrlll}
+    \toprule
+    \textbf{Source} & \multicolumn{1}{l}{\textbf{SS}} & \multicolumn{1}{l}{\textbf{DF}} & \multicolumn{1}{l}{\textbf{MS}} & \textbf{F} & \textbf{p-unc} & \textbf{np2} \\
+    \midrule
+    vertices & 433.225 & 3     & 144.408 & \multicolumn{1}{r}{10571.46} & \multicolumn{1}{r}{0} & \multicolumn{1}{r}{0.946} \\
+    Within & 24.534 & 1796  & 0.014 & -     & -     & - \\
+    \bottomrule
+    \end{tabular}%
+  \label{tab:addlabel}%
+\end{table}%
+
+Al analizar los resultados individualmente se observa que en todos los casos el valor de p-valor es menor que el valor de alfa de 0,05. Por lo que en todos los casos se rechaza la hipótesis nula y se acepta la hipótesis alternativa, la que afirma que existen diferencias entre las medias globales de cada factor y las medias de cada grupo por factor para los cutro casos analizados. Lo anterior se refleja en los siguientes diagramas de cajas realizados para cada caso que se reflejan en la figura \ref{fig:Fig2} de la página \pageref{fig:Fig2} .
+De estos se reafirma la idea de que existe diferencia entre las medias de cada grupo por factor por lo que sí se puede decir que existe una influencia de cada factor en la variable dependiente \textit{tiempo de ejecución}. Al analizar cada factor se pudiera decir que para el 95\% de las veces como nivel de confianza y un margen de error de 0,05, al realizar el experimento para evaluar cuanto influye el algoritmo de flujo máximo seleccionado en el tiempo promedio de ejecución, el algoritmo que más influye es el \textit{Boykov Kolmogorov}. En el caso del generador de grafos, aparentemente el que más influye en el \textit{tiempo de ejecución} es el Watts Strogatz Newman, para el factor cantidad de vértices, la mayor influencia en el tiempo de ejecución está en el caso que poseen mayor cantidad de vértices, y según la densidad, influye más el rango medio de densidad.   
+   
+
+
+\begin{figure}[h]
+
+\begin{subfigure}{0.5\textwidth}
+\includegraphics[width=0.9\linewidth]{Imagenes/aboxplotalgoritmoflujo.eps} 
+\caption{Tiempo vs algoritmo}
+%\label{fig:AUSG_shellUnc}
+\end{subfigure}
+
+\begin{subfigure}{0.5\textwidth}
+\includegraphics[width=0.9\linewidth]{Imagenes/aboxplotconvlogdensidad.eps}
+\caption{Tiempo vs densidad del grafo}
+%\label{fig:AUSG_shellUncW}
+\end{subfigure}
+
+\begin{subfigure}{0.5\textwidth}
+\includegraphics[width=0.9\linewidth]{Imagenes/aboxplotgenerador.eps}
+\caption{Tiempo vs generador}
+%\label{fig:AUSG_shelldEx}
+\end{subfigure}
+
+\begin{subfigure}{0.5\textwidth}
+\includegraphics[width=0.9\linewidth]{Imagenes/aboxplotvertices.eps}
+\caption{Tiempo vs vértices}
+%\label{fig:AUSG_shelldExW}
+\end{subfigure}
+ 
+\caption{Diagramas de cajas por factor vs tiempo de ejecución}
+\label{fig:Fig2}
+\end{figure}
+
+Para tener más certeza sobre cuál de las categorías por factor es la que más influye en la variable dependiente, es recomendable aplicar después del análisis ANOVA una prueba de rango múltiple, en este caso se aplicó la prueba de \textit{TUKEY}, para comprobar la hipótesis por pares en cada grupo de factor. A continuación se muestran los cuadros con los resultados para cada grupo por factor.
+
+% Table generated by Excel2LaTeX from sheet 'Tukeyalgoritmo_flujo'
+\begin{table}[htbp]
+  \centering
+  \caption{\textit{Tukey} para factor: Algoritmo de Flujo}
+    \begin{tabular}{llrrrl}
+    \toprule
+    \textit{\textbf{group1}} & \textit{\textbf{group2}} & \multicolumn{1}{l}{\textit{\textbf{meandiff}}} & \multicolumn{1}{l}{\textit{\textbf{lower}}} & \multicolumn{1}{l}{\textit{\textbf{upper}}} & \textit{\textbf{reject}} \\
+    \midrule
+          &       &       &       &       &  \\
+    boykov\_kolmogorov & edmonds\_karp & -0.0621 & -0.1304 & 0.0061 & \textit{\textbf{False}} \\
+          &       &       &       &       &  \\
+    \textbf{boykov\_kolmogorov} & \textbf{maximum\_flow} & \textbf{-0.0699} & -0.1381 & -0.0016 & \textit{\textbf{True}} \\
+          &       &       &       &       &  \\
+    edmonds\_karp & maximum\_flow & -0.0077 & -0.0759 & 0.0605 & \textit{\textbf{False}} \\
+    \bottomrule
+    \end{tabular}%
+  \label{tab:addlabel}%
+\end{table}%
+
+% Table generated by Excel2LaTeX from sheet 'Tukeyconvlogdensidad'
+\begin{table}[htbp]
+  \centering
+  \caption{\textit{Tukey} para factor: Densidad}
+    \begin{tabular}{llrrrl}
+    \toprule
+    \textit{\textbf{group1}} & \textit{\textbf{group2}} & \multicolumn{1}{l}{\textit{\textbf{meandiff}}} & \multicolumn{1}{l}{\textit{\textbf{lower}}} & \multicolumn{1}{l}{\textit{\textbf{upper}}} & \textit{\textbf{reject}} \\
+    \midrule
+          &       &       &       &       &  \\
+    alto  & bajo  & -0.3101 & -0.3851 & -0.235 & \textit{\textbf{True}} \\
+          &       &       &       &       &  \\
+    alto  & medio & 0.2192 & 0.1623 & 0.276 & \textit{\textbf{True}} \\
+          &       &       &       &       &  \\
+    \textbf{bajo} & \textbf{medio} & \textbf{0.5292} & 0.4538 & 0.6047 & \textit{\textbf{True}} \\
+    \bottomrule
+    \end{tabular}%
+  \label{tab:addlabel}%
+\end{table}%
+
+% Table generated by Excel2LaTeX from sheet 'Tukeygenerador'
+\begin{table}[htbp]
+  \centering
+  \caption{\textit{Tukey} para factor: Generador grafo}
+    \begin{tabular}{llrrrl}
+    \toprule
+    \textit{\textbf{group1}} & \textit{\textbf{group2}} & \multicolumn{1}{l}{\textit{\textbf{meandiff}}} & \multicolumn{1}{l}{\textit{\textbf{lower}}} & \multicolumn{1}{l}{\textit{\textbf{upper}}} & \textit{\textbf{reject}} \\
+    \midrule
+          &       &       &       &       &  \\
+    \textbf{connected\_watts\_strogatz\_graph} & \textbf{newman\_watts\_strogatz\_graph} & \textbf{0.0948} & 0.0267 & 0.163 & \textit{\textbf{True}} \\
+          &       &       &       &       &  \\
+    connected\_watts\_strogatz\_graph & watts\_strogatz\_graph & 0.0159 & -0.0522 & 0.084 & \textit{\textbf{False}} \\
+          &       &       &       &       &  \\
+    newman\_watts\_strogatz\_graph & watts\_strogatz\_graph & -0.0789 & -0.147 & -0.0108 & \textit{\textbf{True}} \\
+    \bottomrule
+    \end{tabular}%
+  \label{tab:addlabel}%
+\end{table}%
+
+% Table generated by Excel2LaTeX from sheet 'Tukeyvertices'
+\begin{table}[htbp]
+  \centering
+  \caption{\textit{Tukey} para factor: Cantidad de vértices}
+    \begin{tabular}{rrrrrl}
+    \toprule
+    \multicolumn{1}{l}{\textit{\textbf{group1}}} & \multicolumn{1}{l}{\textit{\textbf{group2}}} & \multicolumn{1}{l}{\textit{\textbf{meandiff}}} & \multicolumn{1}{l}{\textit{\textbf{lower}}} & \multicolumn{1}{l}{\textit{\textbf{upper}}} & \textit{\textbf{reject}} \\
+    \midrule
+          &       &       &       &       &  \\
+    \textbf{119} & \textbf{2088} & \textbf{1.2113} & 1.1913 & 1.2314 & \textit{\textbf{True}} \\
+          &       &       &       &       &  \\
+    119   & 309   & 0.0384 & 0.0183 & 0.0584 & \textit{\textbf{True}} \\
+          &       &       &       &       &  \\
+    119   & 803   & 0.2773 & 0.2573 & 0.2974 & \textit{\textbf{True}} \\
+          &       &       &       &       &  \\
+    2088  & 309   & -1.1729 & -1.193 & -1.1529 & \textit{\textbf{True}} \\
+          &       &       &       &       &  \\
+    2088  & 803   & -0.934 & -0.954 & -0.9139 & \textit{\textbf{True}} \\
+          &       &       &       &       &  \\
+    309   & 803   & 0.239 & 0.2189 & 0.259 & \textit{\textbf{True}} \\
+    \bottomrule
+    \end{tabular}%
+  \label{tab:addlabel}%
+\end{table}%
+
+De estas tablas se analizan aquellos pares cuyos valores de diferencia de medias sean mayores y se devuelve cual es del par el que más influye. El mismo resultado se puede apreciar mejor en la figura \ref{fig:Fig3} de la página \pageref{fig:Fig3}.
+
+
+\begin{figure}[h]
+
+\begin{subfigure}{0.5\textwidth}
+\includegraphics[width=0.9\linewidth]{Imagenes/tablatukeyalgoritmoflujo.eps} 
+\caption{\textit{Tukey}:Tiempo vs algoritmo}
+%\label{fig:AUSG_shellUnc}
+\end{subfigure}
+
+\begin{subfigure}{0.5\textwidth}
+\includegraphics[width=0.9\linewidth]{Imagenes/tablatukeyconvlogdensidad.eps}
+\caption{\textit{Tukey}:Tiempo vs densidad del grafo}
+%\label{fig:AUSG_shellUncW}
+\end{subfigure}
+
+\begin{subfigure}{0.5\textwidth}
+\includegraphics[width=0.9\linewidth]{Imagenes/tablatukeygenerador.eps}
+\caption{\textit{Tukey}:Tiempo vs generador}
+%\label{fig:AUSG_shelldEx}
+\end{subfigure}
+
+\begin{subfigure}{0.5\textwidth}
+\includegraphics[width=0.9\linewidth]{Imagenes/tablatukeyvertices.eps}
+\caption{\textit{Tukey}:Tiempo vs vértices}
+%\label{fig:AUSG_shelldExW}
+\end{subfigure}
+ 
+\caption{Intervalos de confianza de \textit{Tukey}}
+\label{fig:Fig3}
+\end{figure}
+
+Del análisis del algoritmo de flujo se aprecia que se mantiene el algoritmo de \textit{Boykov Kolmogorov} 
+como el de intervalo de desviación más amplio, y por tanto afecta más, en el par donde se combina. Para la densidad del grafo se aprecia que a pesar de existir diferencia en todos los pares, el que más influye es de la combinación medio con bajo niveles de densidad, se aprecia que el bajo tiene un intervalo mayor, pero el medio posee valores más altos, lo que significa que existe más diferencia entre los valores del rango bajo, pero los de nivel medio influyen más. Para el caso del generador de grafos, se aprecia similitud en los intervalos, por lo que más influye el \textit{Watts Strogatz Newman}. Según la cantidad de vértices en la prueba de \textit{Tukey} no existe diferencia significativa entre los límites superiores e inferiores, y se mantiene que más influye el de mayor cantidad de vértices.
+
+Para conocer la relación entre todas las variables y su influencia en el tiempo de ejecución se realiza la interacción entre las ANOVAS de cada factor, los resultados muestran que los factores que más influyen en el tiempo de ejecución son el generador de grafos y el algoritmo seleccionado, en estos es donde el p\- valor es menor que 0,05 por tanto se rechaza la hipótesis nula, aceptando la hipótesis alternativa. Los resultados globales se muestran en el cuadro siguiente:
+
+
+
+% Table generated by Excel2LaTeX from sheet 'multianova'
+\begin{table}[htbp]
+  \centering
+  \caption{Interacción entre ANOVAS de un factor vs tiempo de ejecución}
+    \begin{tabular}{lrrrr}
+    \toprule
+          & \multicolumn{1}{c}{\textbf{sum\_sq}} & \multicolumn{1}{c}{\textbf{df}} & \multicolumn{1}{c}{\textbf{F}} & \multicolumn{1}{c}{\textbf{PR(>F)}} \\
+    \midrule
+    generador & 0.49851765 & 2     & 33.2428814 & 9.57E-09 \\
+    algoritmo\_flujo & 1.76023524 & 2     & 117.378575 & 1.33E-48 \\
+    vertices & -1.16E-11 & 3     & -5.17E-10 & 1 \\
+    convlogdensidad & -1.62E-11 & 2     & -1.08E-09 & 1 \\
+    generador:algoritmo\_flujo & 0.00835511 & 4     & 0.27857381 & 0.8919532 \\
+    algoritmo\_flujo:vertices & 2.6038422 & 6     & 57.877735 & 1.44E-65 \\
+    vertices:convlogdensidad & 19.3562824 & 6     & 430.247955 & 5.04E-210 \\
+    generador:vertices & 48.5962079 & 6     & 1080.18775 & 0 \\
+    generador:convlogdensidad & 0.47147159 & 4     & 15.7196782 & 4.32E-10 \\
+    Residual & 13.3091476 & 1775  &       &  \\
+    \bottomrule
+    \end{tabular}%
+  \label{tab:addlabel}%
+\end{table}%
+
+El código que se empleó para realizar el análisis estadístico es el siguiente:
+
+\newpage
+\lstinputlisting[language=Python, firstline=7, lastline=19]{Tarea4Estadisticsfinal.py}
+\lstinputlisting[language=Python, firstline=24, lastline=45]{Tarea4Estadisticsfinal.py}
+\lstinputlisting[language=Python, firstline=73, lastline=108]{Tarea4Estadisticsfinal.py}
+
+%\begin{figure}[h]
+%    \centering
+%    \includegraphics[scale=0.6]{Imagenes/Fig01.eps}
+%    \caption{Histogramas de Algoritmos (cant valores vs media): azul-BC, rojo-MC, verde-GC, amarillo-MF y rosado-MS}
+%    \label{fig:Fig01}
+%\end{figure}
+
+
+\bibliography{Referencias_1}
+\bibliographystyle{plainnat}
+\end{document}
