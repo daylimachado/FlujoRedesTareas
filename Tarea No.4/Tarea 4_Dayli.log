@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.29)  2 APR 2019 03:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.29)  2 APR 2019 11:47
 entering extended mode
 **"./Tarea 4_Dayli.tex"
 ("Tarea 4_Dayli.tex"
@@ -389,12 +389,9 @@ File: Imagenes/Histogramadensidad-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: Imagenes/Histogramadensidad-eps-converted-to.pdf  used
  on input line 126.
 (pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 137.
-[4] [5]
+[4] [5 <./Imagenes/Histogramadensidad-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Imagenes/aboxplotalgoritmoflujo.eps>
 (epstopdf)                    date: 2019-04-01 21:13:04
 (epstopdf)                    size: 29263 bytes
@@ -411,7 +408,7 @@ Package epstopdf Info: Output file is already uptodate.
 pdfTeX warning: pdflatex (file ./Imagenes/aboxplotalgoritmoflujo-eps-converted-
 to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allo
 wed
-<Imagenes/aboxplotalgoritmoflujo-eps-converted-to.pdf, id=28, 478.78876pt x 274
+<Imagenes/aboxplotalgoritmoflujo-eps-converted-to.pdf, id=60, 478.78876pt x 274
 .02374pt>
 File: Imagenes/aboxplotalgoritmoflujo-eps-converted-to.pdf Graphic file (type p
 df)
@@ -435,7 +432,7 @@ Package epstopdf Info: Output file is already uptodate.
 pdfTeX warning: pdflatex (file ./Imagenes/aboxplotconvlogdensidad-eps-converted
 -to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
 owed
-<Imagenes/aboxplotconvlogdensidad-eps-converted-to.pdf, id=29, 634.37pt x 390.4
+<Imagenes/aboxplotconvlogdensidad-eps-converted-to.pdf, id=61, 634.37pt x 390.4
 5876pt>
 File: Imagenes/aboxplotconvlogdensidad-eps-converted-to.pdf Graphic file (type 
 pdf)
@@ -458,7 +455,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex (file ./Imagenes/aboxplotgenerador-eps-converted-to.pd
 f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Imagenes/aboxplotgenerador-eps-converted-to.pdf, id=30, 654.445pt x 601.24625p
+<Imagenes/aboxplotgenerador-eps-converted-to.pdf, id=62, 654.445pt x 601.24625p
 t>
 File: Imagenes/aboxplotgenerador-eps-converted-to.pdf Graphic file (type pdf)
 <use Imagenes/aboxplotgenerador-eps-converted-to.pdf>
@@ -480,7 +477,7 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex (file ./Imagenes/aboxplotvertices-eps-converted-to.pdf
 ): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Imagenes/aboxplotvertices-eps-converted-to.pdf, id=31, 628.3475pt x 390.45876p
+<Imagenes/aboxplotvertices-eps-converted-to.pdf, id=63, 628.3475pt x 390.45876p
 t>
 File: Imagenes/aboxplotvertices-eps-converted-to.pdf Graphic file (type pdf)
 <use Imagenes/aboxplotvertices-eps-converted-to.pdf>
@@ -491,13 +488,13 @@ n input line 234.
 LaTeX Warning: Float too large for page by 64.37933pt on input line 241.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
 Overfull \hbox (87.3581pt too wide) in paragraph at lines 287--300
  [][][] 
  []
 
+[6] [7 <./Imagenes/aboxplotalgoritmoflujo-eps-converted-to.pdf> <./Imagenes/abo
+xplotconvlogdensidad-eps-converted-to.pdf> <./Imagenes/aboxplotgenerador-eps-co
+nverted-to.pdf> <./Imagenes/aboxplotvertices-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <Imagenes/tablatukeyalgoritmoflujo.eps>
 (epstopdf)                    date: 2019-04-01 21:13:04
 (epstopdf)                    size: 32213 bytes
@@ -514,8 +511,8 @@ Package epstopdf Info: Output file is already uptodate.
 pdfTeX warning: pdflatex (file ./Imagenes/tablatukeyalgoritmoflujo-eps-converte
 d-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> al
 lowed
-<Imagenes/tablatukeyalgoritmoflujo-eps-converted-to.pdf, id=32, 702.625pt x 390
-.45876pt>
+<Imagenes/tablatukeyalgoritmoflujo-eps-converted-to.pdf, id=217, 702.625pt x 39
+0.45876pt>
 File: Imagenes/tablatukeyalgoritmoflujo-eps-converted-to.pdf Graphic file (type
  pdf)
 <use Imagenes/tablatukeyalgoritmoflujo-eps-converted-to.pdf>
@@ -538,8 +535,8 @@ Package epstopdf Info: Output file is already uptodate.
 pdfTeX warning: pdflatex (file ./Imagenes/tablatukeyconvlogdensidad-eps-convert
 ed-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> a
 llowed
-<Imagenes/tablatukeyconvlogdensidad-eps-converted-to.pdf, id=33, 634.37pt x 390
-.45876pt>
+<Imagenes/tablatukeyconvlogdensidad-eps-converted-to.pdf, id=218, 634.37pt x 39
+0.45876pt>
 File: Imagenes/tablatukeyconvlogdensidad-eps-converted-to.pdf Graphic file (typ
 e pdf)
 <use Imagenes/tablatukeyconvlogdensidad-eps-converted-to.pdf>
@@ -562,8 +559,8 @@ Package epstopdf Info: Output file is already uptodate.
 pdfTeX warning: pdflatex (file ./Imagenes/tablatukeygenerador-eps-converted-to.
 pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
-<Imagenes/tablatukeygenerador-eps-converted-to.pdf, id=34, 766.865pt x 390.4587
-6pt>
+<Imagenes/tablatukeygenerador-eps-converted-to.pdf, id=219, 766.865pt x 390.458
+76pt>
 File: Imagenes/tablatukeygenerador-eps-converted-to.pdf Graphic file (type pdf)
 
 <use Imagenes/tablatukeygenerador-eps-converted-to.pdf>
@@ -585,19 +582,18 @@ Package epstopdf Info: Output file is already uptodate.
 
 pdfTeX warning: pdflatex (file ./Imagenes/tablatukeyvertices-eps-converted-to.p
 df): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Imagenes/tablatukeyvertices-eps-converted-to.pdf, id=35, 628.3475pt x 390.4587
-6pt>
+<Imagenes/tablatukeyvertices-eps-converted-to.pdf, id=220, 628.3475pt x 390.458
+76pt>
 File: Imagenes/tablatukeyvertices-eps-converted-to.pdf Graphic file (type pdf)
 <use Imagenes/tablatukeyvertices-eps-converted-to.pdf>
 Package pdftex.def Info: Imagenes/tablatukeyvertices-eps-converted-to.pdf  used
  on input line 351.
 (pdftex.def)             Requested size: 193.50075pt x 120.2426pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6 <./Imagenes/Histogramadensidad-eps-converted-to.pdf>] [7] [8]
-(Tarea4Estadisticsfinal.py) (Tarea4Estadisticsfinal.py)
-(Tarea4Estadisticsfinal.py [9]) ("Tarea 4_Dayli.bbl"
+[8] [9 <./Imagenes/tablatukeyalgoritmoflujo-eps-converted-to.pdf> <./Imagenes/t
+ablatukeyconvlogdensidad-eps-converted-to.pdf> <./Imagenes/tablatukeygenerador-
+eps-converted-to.pdf> <./Imagenes/tablatukeyvertices-eps-converted-to.pdf>]
+(Tarea4Estadisticsfinal.py) (Tarea4Estadisticsfinal.py) [10]
+(Tarea4Estadisticsfinal.py) ("Tarea 4_Dayli.bbl"
 Underfull \hbox (badness 10000) in paragraph at lines 22--27
 []\OT1/cmr/m/n/10 Desarrolladores Net-workX.  $\OT1/cmtt/m/n/10 https : / / net
 workx . github . io / documentation / stable /
@@ -609,19 +605,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--27
 low . boykov _ kolmogorov . html$\OT1/cmr/m/n/10 ,
  []
 
-
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 29--34
 \OT1/cmtt/m/n/10 reference / algorithms / generated / networkx . algorithms . f
 low . edmonds _ karp . html$\OT1/cmr/m/n/10 , .
  []
 
-) [10] [11 <./Imagenes/aboxplotalgoritmoflujo-eps-converted-to.pdf> <./Imagenes
-/aboxplotconvlogdensidad-eps-converted-to.pdf> <./Imagenes/aboxplotgenerador-ep
-s-converted-to.pdf> <./Imagenes/aboxplotvertices-eps-converted-to.pdf>]
-[12 <./Imagenes/tablatukeyalgoritmoflujo-eps-converted-to.pdf> <./Imagenes/tabl
-atukeyconvlogdensidad-eps-converted-to.pdf> <./Imagenes/tablatukeygenerador-eps
--converted-to.pdf> <./Imagenes/tablatukeyvertices-eps-converted-to.pdf>]
-("Tarea 4_Dayli.aux"
+) [12] ("Tarea 4_Dayli.aux"
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 )
@@ -631,12 +621,12 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  6720 strings out of 492946
- 97706 string characters out of 3135527
- 663068 words of memory out of 3000000
+ 98068 string characters out of 3135527
+ 663067 words of memory out of 3000000
  10503 multiletter control sequences out of 15000+200000
  10746 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,9n,43p,1450b,1682s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,9n,43p,1450b,1464s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/Mi
@@ -649,7 +639,7 @@ b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Fil
 es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "Tarea 4_Dayli.pdf" (12 pages, 360197 bytes).
+Output written on "Tarea 4_Dayli.pdf" (12 pages, 360184 bytes).
 PDF statistics:
  444 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
