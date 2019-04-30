@@ -1,0 +1,4 @@
+group1,group2,meandiff,lower,upper,reject
+alto,bajo,-0.1239,-0.1686,-0.0792,True
+alto,medio,0.1152,0.0751,0.1554,True
+bajo,medio,0.2391,0.2021,0.2762,True
