@@ -1,0 +1,58 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Caballero(2019)]{tutorialpython}
+Leonardo~J. Caballero.
+\newblock \emph{Materiales del entrenamiento de programación en Python}.
+\newblock 2019.
+
+\bibitem[de~Networkx({\natexlab{a}})]{addeges}
+Desarrolladores de~Networkx.
+\newblock Add-edge.
+\newblock
+  \url{https://networkx.github.io/documentation/networkx-1.10/reference/generated/networkx.MultiDiGraph.add_edge.html},
+  {\natexlab{a}}.
+\newblock Accessed:2019-04-19.
+
+\bibitem[de~Networkx({\natexlab{b}})]{ek}
+Desarrolladores de~Networkx, {\natexlab{b}}.
+\newblock\url{https://networkx.github.io/documentation/stable/reference/algorithms/generated/networkx.algorithms.flow.edmonds_karp.html}.
+
+\bibitem[de~Networkx({\natexlab{c}})]{generadoraws}
+Desarrolladores de~Networkx.
+\newblock
+  \url{https://networkx.github.io/documentation/stable/reference/generators.html},
+  {\natexlab{c}}.
+\newblock Accessed: 2019-03-29.
+
+\bibitem[de~Scipy.Org()]{truncnorm}
+Desarrolladores de~Scipy.Org.
+\newblock Función estadística \textit{scipy.stats.truncnorm}.
+\newblock
+  \url{https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.truncnorm.html}.
+\newblock Accessed:2019-04-19.
+
+\bibitem[Hernández(2017)]{Solares}
+Pedro A.~Solares Hernández.
+\newblock \emph{Redes aleatorias de pequeño mundo y libres de escalas}.
+\newblock Universidad Politécnica de Valencia, 2017.
+\newblock Accessed:2019-04-26.
+
+\bibitem[la~Cruz()]{Valerie}
+Valerie~De la~Cruz.
+\newblock What are the applications of random graphs? develop python with
+  pycharm.
+\newblock \url{https://www.quora.com/What-are-the-applications-of-random-graphs}.
+
+\bibitem[Watts and Strogatz(1998)]{wys}
+Duncan~J. Watts and Steven~H. Strogatz.
+\newblock Collective dynamics of 'small-world' networks.
+\newblock \emph{Nature}, 393:\penalty0 440--442, June 1998.
+\newblock \doi{10.1038 / 30918}
+\url{https://worrydream.com/refs/Watts-CollectiveDynamicsOfSmallWorldNetworks.pdf}.
+
+\end{thebibliography}

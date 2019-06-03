@@ -1,0 +1,49 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Caballero(2019)]{tutorialpython}
+Leonardo~J. Caballero.
+\newblock \emph{Materiales del entrenamiento de programación en Python}.
+\newblock 2019.
+
+\bibitem[Duncan J.~Watts(1998)]{wys}
+Steven H.~Strogatz Duncan J.~Watts.
+\newblock Collective dynamics of ‘small-world’ networks.
+\newblock \emph{Nature}, 393:\penalty0 440--442, jun. 1998.
+\newblock \doi{10.1038 / 30918}.
+\newblock URL
+  \url{https://worrydream.com/refs/Watts-CollectiveDynamicsOfSmallWorldNetworks.pdf}.
+
+\bibitem[NetworkX({\natexlab{a}})]{bk}
+Desarrolladores NetworkX.
+\newblock
+  \url{https://networkx.github.io/documentation/stable/reference/algorithms/generated/networkx.algorithms.flow.boykov_kolmogorov.html},
+  {\natexlab{a}}.
+\newblock Accessed:2019-03-31.
+
+\bibitem[NetworkX({\natexlab{b}})]{ek}
+Desarrolladores NetworkX.
+\newblock
+  \url{ttps://https://networkx.github.io/documentation/stable/reference/algorithms/generated/networkx.algorithms.flow.edmonds_karp.html},
+  {\natexlab{b}}.
+\newblock Accessed:2019-03-31.
+
+\bibitem[NetworkX({\natexlab{c}})]{generadoraws}
+Desarrolladores NetworkX.
+\newblock
+  \url{ttps://https://networkx.github.io/documentation/stable/reference/generators.html},
+  {\natexlab{c}}.
+\newblock Accessed: 2019-03-29.
+
+\bibitem[NetworkX({\natexlab{d}})]{mf}
+Desarrolladores NetworkX.
+\newblock
+  \url{ttps://networkx.github.io/documentation/networkx-1.10/reference/generated/networkx.algorithms.flow.maximum_flow.html},
+  {\natexlab{d}}.
+\newblock Accessed: 2019-03-17.
+
+\end{thebibliography}

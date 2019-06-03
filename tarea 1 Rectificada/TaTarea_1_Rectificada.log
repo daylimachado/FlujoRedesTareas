@@ -1,0 +1,624 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.29)  3 JUN 2019 12:26
+entering extended mode
+**./TaTarea_1_Rectificada.tex
+(TaTarea_1_Rectificada.tex
+LaTeX2e <2018-12-01>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2018/11/13 3.27 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-spanish\spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@dirlevel=\count89
+)
+\es@quottoks=\toks14
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\listings.sty
+\lst@mode=\count91
+\lst@gtempboxa=\box27
+\lst@token=\toks16
+\lst@length=\count92
+\lst@currlwidth=\dimen106
+\lst@column=\count93
+\lst@pos=\count94
+\lst@lostspace=\dimen107
+\lst@width=\dimen108
+\lst@newlines=\count95
+\lst@lineno=\count96
+\lst@maxwidth=\dimen109
+
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count97
+\lst@skipnumbers=\count98
+\lst@framebox=\box28
+)
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\listings.cfg
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count99
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen110
+\lightrulewidth=\dimen111
+\cmidrulewidth=\dimen112
+\belowrulesep=\dimen113
+\belowbottomsep=\dimen114
+\aboverulesep=\dimen115
+\abovetopsep=\dimen116
+\cmidrulesep=\dimen117
+\cmidrulekern=\dimen118
+\defaultaddspace=\dimen119
+\@cmidla=\count100
+\@cmidlb=\count101
+\@aboverulesep=\dimen120
+\@belowrulesep=\dimen121
+\@thisruleclass=\count102
+\@lastruleclass=\count103
+\@thisrulewidth=\dimen122
+)
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip45
+\subfigcapskip=\skip46
+\subfigcaptopadj=\dimen123
+\subfigbottomskip=\skip47
+\subfigcapmargin=\dimen124
+\subfiglabelskip=\skip48
+\c@subfigure=\count104
+\c@lofdepth=\count105
+\c@subtable=\count106
+\c@lotdepth=\count107
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/subfigure\subfigure.cfg)
+\subfig@top=\skip49
+\subfig@bottom=\skip50
+)
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/wasysym\wasysym.sty
+Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
+\symwasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
+)
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count108
+\Gm@cntv=\count109
+\c@Gm@tempcnt=\count110
+\Gm@bindingoffset=\dimen125
+\Gm@wd@mp=\dimen126
+\Gm@odd@mp=\dimen127
+\Gm@even@mp=\dimen128
+\Gm@layoutwidth=\dimen129
+\Gm@layoutheight=\dimen130
+\Gm@layouthoffset=\dimen131
+\Gm@layoutvoffset=\dimen132
+\Gm@dimlist=\toks17
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+)
+(TaTarea_1_Rectificada.aux
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+)
+\openout1 = `TaTarea_1_Rectificada.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Info: Redefining \. on input line 62.
+LaTeX Info: Redefining \% on input line 62.
+
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/context/base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen133
+\scratchbox=\box29
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen134
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks19
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@lstlisting=\count117
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 67.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 67.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 67.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 67.
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/wasysym\uwasy.fd
+File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
+)
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+)
+(Practica.py)
+Package epstopdf Info: Source file: <imagenes/Fig01.eps>
+(epstopdf)                    date: 2019-02-11 22:01:54
+(epstopdf)                    size: 1933 bytes
+(epstopdf)             Output file: <imagenes/Fig01-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-11 22:02:38
+(epstopdf)                    size: 3332 bytes
+(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig01-eps-converte
+d-to.pdf imagenes/Fig01.eps>
+(epstopdf)             \includegraphics on input line 82.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./imagenes/Fig01-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<imagenes/Fig01-eps-converted-to.pdf, id=1, 433.62pt x 289.08pt>
+File: imagenes/Fig01-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Fig01-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Fig01-eps-converted-to.pdf  used on input lin
+e 82.
+(pdftex.def)             Requested size: 173.44492pt x 115.62994pt.
+[1
+
+{C:/Users/lapi7/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(grafo2.py
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 20.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
+ [2 <./imagenes/Fig01-eps-converted-to.pdf>])
+Package epstopdf Info: Source file: <imagenes/Fig02.eps>
+(epstopdf)                    date: 2019-02-11 22:07:15
+(epstopdf)                    size: 11085 bytes
+(epstopdf)             Output file: <imagenes/Fig02-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-11 22:07:25
+(epstopdf)                    size: 8876 bytes
+(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig02-eps-converte
+d-to.pdf imagenes/Fig02.eps>
+(epstopdf)             \includegraphics on input line 100.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./imagenes/Fig02-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<imagenes/Fig02-eps-converted-to.pdf, id=18, 433.62pt x 289.08pt>
+File: imagenes/Fig02-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Fig02-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Fig02-eps-converted-to.pdf  used on input lin
+e 100.
+(pdftex.def)             Requested size: 173.44492pt x 115.62994pt.
+(grafo3.py [3 <./imagenes/Fig02-eps-converted-to.pdf>])
+Package epstopdf Info: Source file: <imagenes/Fig03.eps>
+(epstopdf)                    date: 2019-02-11 22:18:36
+(epstopdf)                    size: 14612 bytes
+(epstopdf)             Output file: <imagenes/Fig03-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-11 22:20:08
+(epstopdf)                    size: 9149 bytes
+(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig03-eps-converte
+d-to.pdf imagenes/Fig03.eps>
+(epstopdf)             \includegraphics on input line 115.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./imagenes/Fig03-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<imagenes/Fig03-eps-converted-to.pdf, id=42, 382.42876pt x 249.93375pt>
+File: imagenes/Fig03-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Fig03-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Fig03-eps-converted-to.pdf  used on input lin
+e 115.
+(pdftex.def)             Requested size: 152.96878pt x 99.97173pt.
+[4 <./imagenes/Fig03-eps-converted-to.pdf>] (grafo4.py)
+Package epstopdf Info: Source file: <imagenes/Fig04.eps>
+(epstopdf)                    date: 2019-02-11 22:21:27
+(epstopdf)                    size: 2799 bytes
+(epstopdf)             Output file: <imagenes/Fig04-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-11 22:22:42
+(epstopdf)                    size: 3511 bytes
+(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig04-eps-converte
+d-to.pdf imagenes/Fig04.eps>
+(epstopdf)             \includegraphics on input line 131.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./imagenes/Fig04-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<imagenes/Fig04-eps-converted-to.pdf, id=66, 433.62pt x 289.08pt>
+File: imagenes/Fig04-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Fig04-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Fig04-eps-converted-to.pdf  used on input lin
+e 131.
+(pdftex.def)             Requested size: 173.44492pt x 115.62994pt.
+[5 <./imagenes/Fig04-eps-converted-to.pdf>] (grafo5.py [6])
+Package epstopdf Info: Source file: <imagenes/Fig05.eps>
+(epstopdf)                    date: 2019-02-11 22:21:21
+(epstopdf)                    size: 12417 bytes
+(epstopdf)             Output file: <imagenes/Fig05-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-11 22:22:43
+(epstopdf)                    size: 7498 bytes
+(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig05-eps-converte
+d-to.pdf imagenes/Fig05.eps>
+(epstopdf)             \includegraphics on input line 150.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./imagenes/Fig05-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<imagenes/Fig05-eps-converted-to.pdf, id=75, 433.62pt x 289.08pt>
+File: imagenes/Fig05-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Fig05-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Fig05-eps-converted-to.pdf  used on input lin
+e 150.
+(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
+(grafo6.py [7 <./imagenes/Fig05-eps-converted-to.pdf>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 40.
+)
+Package epstopdf Info: Source file: <imagenes/Fig06.eps>
+(epstopdf)                    date: 2019-02-11 22:29:26
+(epstopdf)                    size: 15070 bytes
+(epstopdf)             Output file: <imagenes/Fig06-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-11 22:31:14
+(epstopdf)                    size: 6811 bytes
+(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig06-eps-converte
+d-to.pdf imagenes/Fig06.eps>
+(epstopdf)             \includegraphics on input line 167.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./imagenes/Fig06-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<imagenes/Fig06-eps-converted-to.pdf, id=94, 433.62pt x 289.08pt>
+File: imagenes/Fig06-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Fig06-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Fig06-eps-converted-to.pdf  used on input lin
+e 167.
+(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
+[8] (grafo7.py [9 <./imagenes/Fig06-eps-converted-to.pdf>])
+Package epstopdf Info: Source file: <imagenes/Fig07.eps>
+(epstopdf)                    date: 2019-02-11 22:29:30
+(epstopdf)                    size: 7889 bytes
+(epstopdf)             Output file: <imagenes/Fig07-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-11 22:31:14
+(epstopdf)                    size: 5905 bytes
+(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig07-eps-converte
+d-to.pdf imagenes/Fig07.eps>
+(epstopdf)             \includegraphics on input line 183.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./imagenes/Fig07-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<imagenes/Fig07-eps-converted-to.pdf, id=110, 433.62pt x 289.08pt>
+File: imagenes/Fig07-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Fig07-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Fig07-eps-converted-to.pdf  used on input lin
+e 183.
+(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
+(grafo8.py [10])
+Package epstopdf Info: Source file: <imagenes/Fig08.eps>
+(epstopdf)                    date: 2019-05-30 15:03:56
+(epstopdf)                    size: 2974 bytes
+(epstopdf)             Output file: <imagenes/Fig08-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-05-30 15:04:03
+(epstopdf)                    size: 3371 bytes
+(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig08-eps-converte
+d-to.pdf imagenes/Fig08.eps>
+(epstopdf)             \includegraphics on input line 199.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./imagenes/Fig08-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<imagenes/Fig08-eps-converted-to.pdf, id=114, 433.62pt x 289.08pt>
+File: imagenes/Fig08-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Fig08-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Fig08-eps-converted-to.pdf  used on input lin
+e 199.
+(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
+[11 <./imagenes/Fig07-eps-converted-to.pdf>] (grafo9.py [12 <./imagenes/Fig08-e
+ps-converted-to.pdf>])
+Package epstopdf Info: Source file: <imagenes/Fig09.eps>
+(epstopdf)                    date: 2019-05-30 15:10:00
+(epstopdf)                    size: 5893 bytes
+(epstopdf)             Output file: <imagenes/Fig09-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-05-30 15:10:07
+(epstopdf)                    size: 3442 bytes
+(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig09-eps-converte
+d-to.pdf imagenes/Fig09.eps>
+(epstopdf)             \includegraphics on input line 215.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./imagenes/Fig09-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<imagenes/Fig09-eps-converted-to.pdf, id=132, 433.62pt x 289.08pt>
+File: imagenes/Fig09-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Fig09-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Fig09-eps-converted-to.pdf  used on input lin
+e 215.
+(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
+[13 <./imagenes/Fig09-eps-converted-to.pdf>] (grafo10.py [14])
+Package epstopdf Info: Source file: <imagenes/Fig10.eps>
+(epstopdf)                    date: 2019-02-11 22:42:28
+(epstopdf)                    size: 11916 bytes
+(epstopdf)             Output file: <imagenes/Fig10-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-11 22:42:50
+(epstopdf)                    size: 8413 bytes
+(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig10-eps-converte
+d-to.pdf imagenes/Fig10.eps>
+(epstopdf)             \includegraphics on input line 230.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./imagenes/Fig10-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<imagenes/Fig10-eps-converted-to.pdf, id=142, 433.62pt x 289.08pt>
+File: imagenes/Fig10-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Fig10-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Fig10-eps-converted-to.pdf  used on input lin
+e 230.
+(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
+(grafo11.py [15 <./imagenes/Fig10-eps-converted-to.pdf>])
+Package epstopdf Info: Source file: <imagenes/Fig11.eps>
+(epstopdf)                    date: 2019-02-11 22:46:28
+(epstopdf)                    size: 9661 bytes
+(epstopdf)             Output file: <imagenes/Fig11-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-11 22:47:08
+(epstopdf)                    size: 6652 bytes
+(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig11-eps-converte
+d-to.pdf imagenes/Fig11.eps>
+(epstopdf)             \includegraphics on input line 245.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./imagenes/Fig11-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<imagenes/Fig11-eps-converted-to.pdf, id=163, 433.62pt x 289.08pt>
+File: imagenes/Fig11-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Fig11-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Fig11-eps-converted-to.pdf  used on input lin
+e 245.
+(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
+[16] (grafo12.py [17 <./imagenes/Fig11-eps-converted-to.pdf>])
+Package epstopdf Info: Source file: <imagenes/Fig12.eps>
+(epstopdf)                    date: 2019-02-11 22:52:40
+(epstopdf)                    size: 8378 bytes
+(epstopdf)             Output file: <imagenes/Fig12-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-11 22:52:59
+(epstopdf)                    size: 3984 bytes
+(epstopdf)             Command: <epstopdf --outfile=imagenes/Fig12-eps-converte
+d-to.pdf imagenes/Fig12.eps>
+(epstopdf)             \includegraphics on input line 263.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./imagenes/Fig12-eps-converted-to.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<imagenes/Fig12-eps-converted-to.pdf, id=181, 433.62pt x 289.08pt>
+File: imagenes/Fig12-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/Fig12-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/Fig12-eps-converted-to.pdf  used on input lin
+e 263.
+(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
+(TaTarea_1_Rectificada.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+[]\OT1/cmr/m/n/10 Pieter Swart Aric Hag-berg, Dan Schult.  \OT1/cmr/m/it/10 Net
+-workX Re-fe-ren-ce, Re-lea-se
+ []
+
+[18]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 17.
+) [19 <./imagenes/Fig12-eps-converted-to.pdf>] (TaTarea_1_Rectificada.aux
+LaTeX Info: Redefining \. on input line 9.
+LaTeX Info: Redefining \% on input line 9.
+) ) 
+Here is how much of TeX's memory you used:
+ 5671 strings out of 492946
+ 78628 string characters out of 3135527
+ 539088 words of memory out of 3000000
+ 9439 multiletter control sequences out of 15000+200000
+ 8908 words of font info for 33 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,7n,43p,1142b,1694s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mti10.pfb>
+Output written on TaTarea_1_Rectificada.pdf (19 pages, 237068 bytes).
+PDF statistics:
+ 218 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+

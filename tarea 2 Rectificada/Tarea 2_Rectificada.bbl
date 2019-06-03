@@ -1,0 +1,40 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Aric~Hagberg(2019)]{Net}
+Pieter~Swart Aric~Hagberg, Dan~Schult.
+\newblock \emph{NetworkX Reference, Release 2.3rc1.dev20190113142952}, 2019.
+\newblock URL
+  \url{https://networkx.github.io/documentation/stable/reference/index.html}.
+
+\bibitem[Chakraborty et~al.(2018)Chakraborty, Dutta, Mondal, and Nath]{redes}
+Anwesha Chakraborty, Trina Dutta, Sushmita Mondal, and Asoke Nath.
+\newblock Application of graph theory in social media.
+\newblock \emph{International Journal of Computer Sciences and Enginieering},
+  6:\penalty0 722--729, 10 2018.
+\newblock \doi{10.26438/ijcse/v6i10.722729}.
+
+\bibitem[Hagberg()]{codimag}
+Aric Hagberg.
+\newblock Forum de networkx.
+\newblock
+  \url{http://https://groups.google.com/forum/#!topic/networkx-discuss/qhHjh0CGP8A}.
+\newblock Accessed: 2019-02-25.
+
+\bibitem[NetworkX()]{layout}
+Desarrolladores NetworkX.
+\newblock
+  \url{https://networkx.github.io/documentation/stable/reference/drawing.html}.
+\newblock Accessed: 2019-02-23.
+
+\bibitem[Schaeffer(2017)]{Elisa}
+Elisa Schaeffer.
+\newblock Complejidad computacional de problemas y el análisis y diseño de
+  algoritmos, 2017.
+\newblock URL \url{https://elisa.dyndns-web.com/teaching/aa/pdf/aa.pdf}.
+
+\end{thebibliography}

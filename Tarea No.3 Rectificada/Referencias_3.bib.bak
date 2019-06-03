@@ -1,0 +1,62 @@
+@book{Elisa,
+ author = {Elisa Schaeffer},
+ title = {Complejidad computacional de problemas y el análisis y diseño de algoritmos},
+ year = {2017}
+ }
+ 
+@manual{Net,
+ author = {Aric Hagberg, Dan Schult, Pieter Swart},
+ title = {NetworkX Reference, Release 2.3rc1.dev20190113142952},
+ year = {2019} 
+ }
+ 
+@article{redes,
+ author = {Chakraborty, Anwesha and Dutta, Trina and Mondal, Sushmita and Nath, Asoke},
+ year = {2018},
+ month = {10},
+ pages = {722-729},
+ title = {Application of Graph Theory in Social Media},
+ volume = {6},
+ journal = {International Journal of Computer Sciences and Enginieering},
+ doi = {10.26438/ijcse/v6i10.722729}
+ }
+
+@article{empresas, 
+title={Networking en pequeña empresa: una revisión bibliográfica utilizando la teoria de grafos},   volume={11}, url={https://revistas.udistrital.edu.co/ojs/index.php/vinculos/article/view/9664}, DOI={10.14483/2322939X.9664}, number={2}, journal={Revista vínculos}, author={Robledo, Sebastian and Osorio, German and Lopez, Carolina}, year={2014}, month={dic.}, pages={6-16} } 
+
+@misc{codimag,
+author = {Aric Hagberg},
+howpublished = {\url{http://groups.google.com/forum/#!topic/networkx-discuss/qhHjh0CGP8A}},
+note = {Accessed: 2019-02-25}
+}
+@misc{layout,
+author = {Desarrolladores de NetworkX},
+howpublished = {\url{https://networkx.github.io/documentation/stable/reference/drawing.html}},
+note = {Accessed: 2019-02-23}
+}
+@misc{bc,
+author = {Desarrolladores de NetworkX},
+howpublished = {\url{https://networkx.github.io/documentation/networkx-1.10/reference/generated/networkx.algorithms.centrality.betweenness_centrality.html}},
+note = {Accessed: 2019-03-10}
+}
+@misc{bccentralidad,
+author = {Desarrolladores de NetworkX},
+howpublished = {\url{https://networkx.github.io/documentation/networkx-1.10/_modules/networkx/algorithms/centrality/betweenness.html.betweenness_centrality}},
+note = {Accessed: 2019-03-18}
+}
+@misc{gredy,
+author = {Desarrolladores NetworkX},
+howpublished = {\url{https://networkx.github.io/documentation/networkx-1.10/_modules/networkx/algorithms/coloring/greedy_coloring.html#greedy_color}},
+note = {Accessed: 2019-03-17}
+}
+
+@misc{mf,
+author = {Desarrolladores NetworkX},
+howpublished = {\url{https://networkx.github.io/documentation/networkx-1.10/reference/generated/networkx.algorithms.flow.maximum_flow.html}},
+note = {Accessed: 2019-03-17}
+}
+@misc{min,
+author = {Desarrolladores NetworkX},
+howpublished = {\url{https://networkx.github.io/documentation/networkx-1.10/reference/generated/networkx.algorithms.mst.minimum_spanning_tree.html}},
+note = {Accessed: 2019-03-17}
+}

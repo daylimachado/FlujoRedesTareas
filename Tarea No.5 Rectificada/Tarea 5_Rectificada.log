@@ -1,0 +1,2277 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.1.29)  3 JUN 2019 11:28
+entering extended mode
+**"./Tarea 5_Rectificada.tex"
+("Tarea 5_Rectificada.tex"
+LaTeX2e <2018-12-01>
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2018/11/13 3.27 The Babel package
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/babel-spanish\spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@dirlevel=\count89
+)
+\es@quottoks=\toks14
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\listings.sty
+\lst@mode=\count91
+\lst@gtempboxa=\box27
+\lst@token=\toks16
+\lst@length=\count92
+\lst@currlwidth=\dimen106
+\lst@column=\count93
+\lst@pos=\count94
+\lst@lostspace=\dimen107
+\lst@width=\dimen108
+\lst@newlines=\count95
+\lst@lineno=\count96
+\lst@maxwidth=\dimen109
+
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count97
+\lst@skipnumbers=\count98
+\lst@framebox=\box28
+)
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\listings.cfg
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count99
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen110
+\lightrulewidth=\dimen111
+\cmidrulewidth=\dimen112
+\belowrulesep=\dimen113
+\belowbottomsep=\dimen114
+\aboverulesep=\dimen115
+\abovetopsep=\dimen116
+\cmidrulesep=\dimen117
+\cmidrulekern=\dimen118
+\defaultaddspace=\dimen119
+\@cmidla=\count100
+\@cmidlb=\count101
+\@aboverulesep=\dimen120
+\@belowrulesep=\dimen121
+\@thisruleclass=\count102
+\@lastruleclass=\count103
+\@thisrulewidth=\dimen122
+)
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip45
+\subfigcapskip=\skip46
+\subfigcaptopadj=\dimen123
+\subfigbottomskip=\skip47
+\subfigcapmargin=\dimen124
+\subfiglabelskip=\skip48
+\c@subfigure=\count104
+\c@lofdepth=\count105
+\c@subtable=\count106
+\c@lotdepth=\count107
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/subfigure\subfigure.cfg)
+\subfig@top=\skip49
+\subfig@bottom=\skip50
+)
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/wasysym\wasysym.sty
+Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
+\symwasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
+)
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count108
+\Gm@cntv=\count109
+\c@Gm@tempcnt=\count110
+\Gm@bindingoffset=\dimen125
+\Gm@wd@mp=\dimen126
+\Gm@odd@mp=\dimen127
+\Gm@even@mp=\dimen128
+\Gm@layoutwidth=\dimen129
+\Gm@layoutheight=\dimen130
+\Gm@layouthoffset=\dimen131
+\Gm@layoutvoffset=\dimen132
+\Gm@dimlist=\toks17
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+)
+("Tarea 5_Rectificada.aux"
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+
+LaTeX Warning: Label `tab:addlabel' multiply defined.
+
+)
+\openout1 = `"Tarea 5_Rectificada.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Info: Redefining \. on input line 64.
+LaTeX Info: Redefining \% on input line 64.
+ (C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/context/base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen133
+\scratchbox=\box29
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen134
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks19
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@lstlisting=\count117
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 69.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 69.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 69.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 69.
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/wasysym\uwasy.fd
+File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
+) [1
+
+{C:/Users/lapi7/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+(C:\Users\lapi7\AppData\Roaming\MiKTeX\2.9\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+)
+(Tarea5GeneradorGrafos.py
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 34.
+) [3] (T5ProTimeFLujo.py
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 40.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
+)
+Package epstopdf Info: Source file: <fig1a.eps>
+(epstopdf)                    date: 2019-04-29 14:06:21
+(epstopdf)                    size: 15624 bytes
+(epstopdf)             Output file: <fig1a-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 00:53:39
+(epstopdf)                    size: 10298 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig1a-eps-converted-to.pdf 
+fig1a.eps>
+(epstopdf)             \includegraphics on input line 119.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./fig1a-eps-converted-to.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+<fig1a-eps-converted-to.pdf, id=19, 433.62pt x 289.08pt>
+File: fig1a-eps-converted-to.pdf Graphic file (type pdf)
+<use fig1a-eps-converted-to.pdf>
+Package pdftex.def Info: fig1a-eps-converted-to.pdf  used on input line 119.
+(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
+Package epstopdf Info: Source file: <fig2a.eps>
+(epstopdf)                    date: 2019-04-29 14:27:07
+(epstopdf)                    size: 15681 bytes
+(epstopdf)             Output file: <fig2a-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 00:53:39
+(epstopdf)                    size: 10304 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig2a-eps-converted-to.pdf 
+fig2a.eps>
+(epstopdf)             \includegraphics on input line 120.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./fig2a-eps-converted-to.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+<fig2a-eps-converted-to.pdf, id=20, 433.62pt x 289.08pt>
+File: fig2a-eps-converted-to.pdf Graphic file (type pdf)
+<use fig2a-eps-converted-to.pdf>
+Package pdftex.def Info: fig2a-eps-converted-to.pdf  used on input line 120.
+(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
+Package epstopdf Info: Source file: <fig3a.eps>
+(epstopdf)                    date: 2019-04-29 14:38:33
+(epstopdf)                    size: 15759 bytes
+(epstopdf)             Output file: <fig3a-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 00:53:40
+(epstopdf)                    size: 10318 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig3a-eps-converted-to.pdf 
+fig3a.eps>
+(epstopdf)             \includegraphics on input line 121.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./fig3a-eps-converted-to.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+<fig3a-eps-converted-to.pdf, id=21, 433.62pt x 289.08pt>
+File: fig3a-eps-converted-to.pdf Graphic file (type pdf)
+<use fig3a-eps-converted-to.pdf>
+Package pdftex.def Info: fig3a-eps-converted-to.pdf  used on input line 121.
+(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
+Package epstopdf Info: Source file: <fig4a.eps>
+(epstopdf)                    date: 2019-04-29 14:42:52
+(epstopdf)                    size: 18207 bytes
+(epstopdf)             Output file: <fig4a-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 00:53:40
+(epstopdf)                    size: 10406 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig4a-eps-converted-to.pdf 
+fig4a.eps>
+(epstopdf)             \includegraphics on input line 122.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./fig4a-eps-converted-to.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+<fig4a-eps-converted-to.pdf, id=22, 433.62pt x 289.08pt>
+File: fig4a-eps-converted-to.pdf Graphic file (type pdf)
+<use fig4a-eps-converted-to.pdf>
+Package pdftex.def Info: fig4a-eps-converted-to.pdf  used on input line 122.
+(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
+Package epstopdf Info: Source file: <fig5a.eps>
+(epstopdf)                    date: 2019-04-29 15:00:44
+(epstopdf)                    size: 18164 bytes
+(epstopdf)             Output file: <fig5a-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 00:53:40
+(epstopdf)                    size: 10417 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig5a-eps-converted-to.pdf 
+fig5a.eps>
+(epstopdf)             \includegraphics on input line 123.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./fig5a-eps-converted-to.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+<fig5a-eps-converted-to.pdf, id=23, 433.62pt x 289.08pt>
+File: fig5a-eps-converted-to.pdf Graphic file (type pdf)
+<use fig5a-eps-converted-to.pdf>
+Package pdftex.def Info: fig5a-eps-converted-to.pdf  used on input line 123.
+(pdftex.def)             Requested size: 260.17401pt x 173.44933pt.
+
+Overfull \hbox (92.56561pt too wide) in paragraph at lines 119--124
+[][] []
+ []
+
+
+Overfull \hbox (92.56561pt too wide) in paragraph at lines 119--124
+[] []
+ []
+
+
+LaTeX Warning: Float too large for page by 42.7603pt on input line 126.
+
+[4] [5 <./fig1a-eps-converted-to.pdf> <./fig2a-eps-converted-to.pdf> <./fig3a-e
+ps-converted-to.pdf> <./fig4a-eps-converted-to.pdf> <./fig5a-eps-converted-to.p
+df>] (T5histoporopiedad.py)
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo1DistGrado.eps>
+(epstopdf)                    date: 2019-04-29 10:08:00
+(epstopdf)                    size: 23382 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo1DistGrado-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:01:09
+(epstopdf)                    size: 12481 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo1
+DistGrado-eps-converted-to.pdf histogramapropiedadesgrafo1DistGrado.eps>
+(epstopdf)             \includegraphics on input line 138.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo1DistGrado-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<histogramapropiedadesgrafo1DistGrado-eps-converted-to.pdf, id=101, 332.24126pt
+ x 322.20375pt>
+File: histogramapropiedadesgrafo1DistGrado-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use histogramapropiedadesgrafo1DistGrado-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo1DistGrado-eps-converted-to.
+pdf  used on input line 138.
+(pdftex.def)             Requested size: 199.34628pt x 193.32373pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo2DistGrado.eps>
+(epstopdf)                    date: 2019-04-29 10:08:01
+(epstopdf)                    size: 23456 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo2DistGrado-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:01:10
+(epstopdf)                    size: 12507 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo2
+DistGrado-eps-converted-to.pdf histogramapropiedadesgrafo2DistGrado.eps>
+(epstopdf)             \includegraphics on input line 139.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo2DistGrado-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<histogramapropiedadesgrafo2DistGrado-eps-converted-to.pdf, id=102, 324.21124pt
+ x 322.20375pt>
+File: histogramapropiedadesgrafo2DistGrado-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use histogramapropiedadesgrafo2DistGrado-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo2DistGrado-eps-converted-to.
+pdf  used on input line 139.
+(pdftex.def)             Requested size: 194.52824pt x 193.32373pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo3DistGrado.eps>
+(epstopdf)                    date: 2019-04-29 10:08:02
+(epstopdf)                    size: 23382 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo3DistGrado-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:01:10
+(epstopdf)                    size: 12481 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo3
+DistGrado-eps-converted-to.pdf histogramapropiedadesgrafo3DistGrado.eps>
+(epstopdf)             \includegraphics on input line 140.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo3DistGrado-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<histogramapropiedadesgrafo3DistGrado-eps-converted-to.pdf, id=103, 332.24126pt
+ x 322.20375pt>
+File: histogramapropiedadesgrafo3DistGrado-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use histogramapropiedadesgrafo3DistGrado-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo3DistGrado-eps-converted-to.
+pdf  used on input line 140.
+(pdftex.def)             Requested size: 199.34628pt x 193.32373pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo4DistGrado.eps>
+(epstopdf)                    date: 2019-04-29 10:08:04
+(epstopdf)                    size: 24509 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo4DistGrado-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:01:11
+(epstopdf)                    size: 13006 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo4
+DistGrado-eps-converted-to.pdf histogramapropiedadesgrafo4DistGrado.eps>
+(epstopdf)             \includegraphics on input line 141.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo4DistGrado-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<histogramapropiedadesgrafo4DistGrado-eps-converted-to.pdf, id=104, 324.21124pt
+ x 322.20375pt>
+File: histogramapropiedadesgrafo4DistGrado-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use histogramapropiedadesgrafo4DistGrado-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo4DistGrado-eps-converted-to.
+pdf  used on input line 141.
+(pdftex.def)             Requested size: 194.52824pt x 193.32373pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo5DistGrado.eps>
+(epstopdf)                    date: 2019-04-29 10:08:05
+(epstopdf)                    size: 24232 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo5DistGrado-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:01:11
+(epstopdf)                    size: 12994 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo5
+DistGrado-eps-converted-to.pdf histogramapropiedadesgrafo5DistGrado.eps>
+(epstopdf)             \includegraphics on input line 142.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo5DistGrado-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<histogramapropiedadesgrafo5DistGrado-eps-converted-to.pdf, id=105, 324.21124pt
+ x 322.20375pt>
+File: histogramapropiedadesgrafo5DistGrado-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use histogramapropiedadesgrafo5DistGrado-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo5DistGrado-eps-converted-to.
+pdf  used on input line 142.
+(pdftex.def)             Requested size: 194.52824pt x 193.32373pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--143
+[][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--143
+[] []
+ []
+
+
+LaTeX Warning: Float too large for page by 102.38351pt on input line 145.
+
+[6] [7 <./histogramapropiedadesgrafo1DistGrado-eps-converted-to.pdf> <./histogr
+amapropiedadesgrafo2DistGrado-eps-converted-to.pdf> <./histogramapropiedadesgra
+fo3DistGrado-eps-converted-to.pdf> <./histogramapropiedadesgrafo4DistGrado-eps-
+converted-to.pdf> <./histogramapropiedadesgrafo5DistGrado-eps-converted-to.pdf>
+]
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo1CoefAgrup.eps>
+(epstopdf)                    date: 2019-04-29 10:08:00
+(epstopdf)                    size: 24380 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo1CoefAgrup-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:05:15
+(epstopdf)                    size: 12946 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo1
+CoefAgrup-eps-converted-to.pdf histogramapropiedadesgrafo1CoefAgrup.eps>
+(epstopdf)             \includegraphics on input line 150.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo1CoefAgrup-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<histogramapropiedadesgrafo1CoefAgrup-eps-converted-to.pdf, id=265, 330.23375pt
+ x 322.20375pt>
+File: histogramapropiedadesgrafo1CoefAgrup-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use histogramapropiedadesgrafo1CoefAgrup-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo1CoefAgrup-eps-converted-to.
+pdf  used on input line 150.
+(pdftex.def)             Requested size: 165.11646pt x 156.08273pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo2CoefAgrup.eps>
+(epstopdf)                    date: 2019-04-29 10:08:01
+(epstopdf)                    size: 24924 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo2CoefAgrup-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:05:15
+(epstopdf)                    size: 12925 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo2
+CoefAgrup-eps-converted-to.pdf histogramapropiedadesgrafo2CoefAgrup.eps>
+(epstopdf)             \includegraphics on input line 151.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo2CoefAgrup-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<histogramapropiedadesgrafo2CoefAgrup-eps-converted-to.pdf, id=267, 338.26375pt
+ x 322.20375pt>
+File: histogramapropiedadesgrafo2CoefAgrup-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use histogramapropiedadesgrafo2CoefAgrup-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo2CoefAgrup-eps-converted-to.
+pdf  used on input line 151.
+(pdftex.def)             Requested size: 169.13145pt x 156.08273pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo3CoefAgrup.eps>
+(epstopdf)                    date: 2019-04-29 10:08:03
+(epstopdf)                    size: 24073 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo3CoefAgrup-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:05:16
+(epstopdf)                    size: 12929 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo3
+CoefAgrup-eps-converted-to.pdf histogramapropiedadesgrafo3CoefAgrup.eps>
+(epstopdf)             \includegraphics on input line 152.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo3CoefAgrup-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<histogramapropiedadesgrafo3CoefAgrup-eps-converted-to.pdf, id=269, 330.23375pt
+ x 322.20375pt>
+File: histogramapropiedadesgrafo3CoefAgrup-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use histogramapropiedadesgrafo3CoefAgrup-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo3CoefAgrup-eps-converted-to.
+pdf  used on input line 152.
+(pdftex.def)             Requested size: 165.11646pt x 156.08273pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo4CoefAgrup.eps>
+(epstopdf)                    date: 2019-04-29 10:08:04
+(epstopdf)                    size: 24047 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo4CoefAgrup-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:05:16
+(epstopdf)                    size: 12259 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo4
+CoefAgrup-eps-converted-to.pdf histogramapropiedadesgrafo4CoefAgrup.eps>
+(epstopdf)             \includegraphics on input line 153.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo4CoefAgrup-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<histogramapropiedadesgrafo4CoefAgrup-eps-converted-to.pdf, id=271, 334.24875pt
+ x 322.20375pt>
+File: histogramapropiedadesgrafo4CoefAgrup-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use histogramapropiedadesgrafo4CoefAgrup-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo4CoefAgrup-eps-converted-to.
+pdf  used on input line 153.
+(pdftex.def)             Requested size: 167.12396pt x 156.08273pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo5CoefAgrup.eps>
+(epstopdf)                    date: 2019-04-29 10:08:05
+(epstopdf)                    size: 23502 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo5CoefAgrup-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:05:16
+(epstopdf)                    size: 12267 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo5
+CoefAgrup-eps-converted-to.pdf histogramapropiedadesgrafo5CoefAgrup.eps>
+(epstopdf)             \includegraphics on input line 154.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo5CoefAgrup-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<histogramapropiedadesgrafo5CoefAgrup-eps-converted-to.pdf, id=273, 324.21124pt
+ x 322.20375pt>
+File: histogramapropiedadesgrafo5CoefAgrup-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use histogramapropiedadesgrafo5CoefAgrup-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo5CoefAgrup-eps-converted-to.
+pdf  used on input line 154.
+(pdftex.def)             Requested size: 162.10522pt x 156.08273pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--155
+[][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--155
+[] []
+ []
+
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo1CentCercania.ep
+s>
+(epstopdf)                    date: 2019-04-29 10:08:00
+(epstopdf)                    size: 23343 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo1CentCercania-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:08:31
+(epstopdf)                    size: 12151 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo1
+CentCercania-eps-converted-to.pdf histogramapropiedadesgrafo1CentCercania.eps>
+(epstopdf)             \includegraphics on input line 163.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo1CentCercania-eps-co
+nverted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1
+.5> allowed
+<histogramapropiedadesgrafo1CentCercania-eps-converted-to.pdf, id=275, 332.2412
+6pt x 322.20375pt>
+File: histogramapropiedadesgrafo1CentCercania-eps-converted-to.pdf Graphic file
+ (type pdf)
+<use histogramapropiedadesgrafo1CentCercania-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo1CentCercania-eps-converted-
+to.pdf  used on input line 163.
+(pdftex.def)             Requested size: 199.34628pt x 187.30118pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo2CentCercania.ep
+s>
+(epstopdf)                    date: 2019-04-29 10:08:02
+(epstopdf)                    size: 20787 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo2CentCercania-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:08:31
+(epstopdf)                    size: 11118 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo2
+CentCercania-eps-converted-to.pdf histogramapropiedadesgrafo2CentCercania.eps>
+(epstopdf)             \includegraphics on input line 164.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo2CentCercania-eps-co
+nverted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1
+.5> allowed
+<histogramapropiedadesgrafo2CentCercania-eps-converted-to.pdf, id=277, 324.2112
+4pt x 322.20375pt>
+File: histogramapropiedadesgrafo2CentCercania-eps-converted-to.pdf Graphic file
+ (type pdf)
+<use histogramapropiedadesgrafo2CentCercania-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo2CentCercania-eps-converted-
+to.pdf  used on input line 164.
+(pdftex.def)             Requested size: 194.52824pt x 187.30118pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo3CentCercania.ep
+s>
+(epstopdf)                    date: 2019-04-29 10:08:03
+(epstopdf)                    size: 23540 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo3CentCercania-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:08:32
+(epstopdf)                    size: 11889 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo3
+CentCercania-eps-converted-to.pdf histogramapropiedadesgrafo3CentCercania.eps>
+(epstopdf)             \includegraphics on input line 165.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo3CentCercania-eps-co
+nverted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1
+.5> allowed
+<histogramapropiedadesgrafo3CentCercania-eps-converted-to.pdf, id=279, 324.2112
+4pt x 322.20375pt>
+File: histogramapropiedadesgrafo3CentCercania-eps-converted-to.pdf Graphic file
+ (type pdf)
+<use histogramapropiedadesgrafo3CentCercania-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo3CentCercania-eps-converted-
+to.pdf  used on input line 165.
+(pdftex.def)             Requested size: 194.52824pt x 187.30118pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo4CentCercania.ep
+s>
+(epstopdf)                    date: 2019-04-29 10:08:04
+(epstopdf)                    size: 24386 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo4CentCercania-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:08:32
+(epstopdf)                    size: 11920 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo4
+CentCercania-eps-converted-to.pdf histogramapropiedadesgrafo4CentCercania.eps>
+(epstopdf)             \includegraphics on input line 166.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo4CentCercania-eps-co
+nverted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1
+.5> allowed
+<histogramapropiedadesgrafo4CentCercania-eps-converted-to.pdf, id=281, 334.2487
+5pt x 322.20375pt>
+File: histogramapropiedadesgrafo4CentCercania-eps-converted-to.pdf Graphic file
+ (type pdf)
+<use histogramapropiedadesgrafo4CentCercania-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo4CentCercania-eps-converted-
+to.pdf  used on input line 166.
+(pdftex.def)             Requested size: 200.55078pt x 187.30118pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo5CentCercania.ep
+s>
+(epstopdf)                    date: 2019-04-29 10:08:06
+(epstopdf)                    size: 22724 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo5CentCercania-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:08:33
+(epstopdf)                    size: 11632 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo5
+CentCercania-eps-converted-to.pdf histogramapropiedadesgrafo5CentCercania.eps>
+(epstopdf)             \includegraphics on input line 167.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo5CentCercania-eps-co
+nverted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1
+.5> allowed
+<histogramapropiedadesgrafo5CentCercania-eps-converted-to.pdf, id=283, 334.2487
+5pt x 322.20375pt>
+File: histogramapropiedadesgrafo5CentCercania-eps-converted-to.pdf Graphic file
+ (type pdf)
+<use histogramapropiedadesgrafo5CentCercania-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo5CentCercania-eps-converted-
+to.pdf  used on input line 167.
+(pdftex.def)             Requested size: 200.55078pt x 187.30118pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--168
+[][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--168
+[] []
+ []
+
+
+LaTeX Warning: Float too large for page by 84.31586pt on input line 170.
+
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo1CentCarga.eps>
+(epstopdf)                    date: 2019-04-29 10:08:00
+(epstopdf)                    size: 25315 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo1CentCarga-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:15:27
+(epstopdf)                    size: 12642 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo1
+CentCarga-eps-converted-to.pdf histogramapropiedadesgrafo1CentCarga.eps>
+(epstopdf)             \includegraphics on input line 175.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo1CentCarga-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<histogramapropiedadesgrafo1CentCarga-eps-converted-to.pdf, id=285, 334.24875pt
+ x 322.20375pt>
+File: histogramapropiedadesgrafo1CentCarga-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use histogramapropiedadesgrafo1CentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo1CentCarga-eps-converted-to.
+pdf  used on input line 175.
+(pdftex.def)             Requested size: 200.55078pt x 193.32373pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo2CentCarga.eps>
+(epstopdf)                    date: 2019-04-29 10:08:02
+(epstopdf)                    size: 21894 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo2CentCarga-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:15:28
+(epstopdf)                    size: 11624 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo2
+CentCarga-eps-converted-to.pdf histogramapropiedadesgrafo2CentCarga.eps>
+(epstopdf)             \includegraphics on input line 176.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo2CentCarga-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<histogramapropiedadesgrafo2CentCarga-eps-converted-to.pdf, id=286, 324.21124pt
+ x 322.20375pt>
+File: histogramapropiedadesgrafo2CentCarga-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use histogramapropiedadesgrafo2CentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo2CentCarga-eps-converted-to.
+pdf  used on input line 176.
+(pdftex.def)             Requested size: 194.52824pt x 193.32373pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo3CentCarga.eps>
+(epstopdf)                    date: 2019-04-29 10:08:03
+(epstopdf)                    size: 25302 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo3CentCarga-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:15:28
+(epstopdf)                    size: 12690 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo3
+CentCarga-eps-converted-to.pdf histogramapropiedadesgrafo3CentCarga.eps>
+(epstopdf)             \includegraphics on input line 177.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo3CentCarga-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<histogramapropiedadesgrafo3CentCarga-eps-converted-to.pdf, id=287, 334.24875pt
+ x 322.20375pt>
+File: histogramapropiedadesgrafo3CentCarga-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use histogramapropiedadesgrafo3CentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo3CentCarga-eps-converted-to.
+pdf  used on input line 177.
+(pdftex.def)             Requested size: 200.55078pt x 193.32373pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo4CentCarga.eps>
+(epstopdf)                    date: 2019-04-29 10:08:04
+(epstopdf)                    size: 24050 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo4CentCarga-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:15:29
+(epstopdf)                    size: 12612 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo4
+CentCarga-eps-converted-to.pdf histogramapropiedadesgrafo4CentCarga.eps>
+(epstopdf)             \includegraphics on input line 178.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo4CentCarga-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<histogramapropiedadesgrafo4CentCarga-eps-converted-to.pdf, id=288, 334.24875pt
+ x 322.20375pt>
+File: histogramapropiedadesgrafo4CentCarga-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use histogramapropiedadesgrafo4CentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo4CentCarga-eps-converted-to.
+pdf  used on input line 178.
+(pdftex.def)             Requested size: 200.55078pt x 193.32373pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo5CentCarga.eps>
+(epstopdf)                    date: 2019-04-29 10:08:06
+(epstopdf)                    size: 25644 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo5CentCarga-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:15:29
+(epstopdf)                    size: 12721 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo5
+CentCarga-eps-converted-to.pdf histogramapropiedadesgrafo5CentCarga.eps>
+(epstopdf)             \includegraphics on input line 179.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo5CentCarga-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<histogramapropiedadesgrafo5CentCarga-eps-converted-to.pdf, id=289, 336.25626pt
+ x 322.20375pt>
+File: histogramapropiedadesgrafo5CentCarga-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use histogramapropiedadesgrafo5CentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo5CentCarga-eps-converted-to.
+pdf  used on input line 179.
+(pdftex.def)             Requested size: 201.75531pt x 193.32373pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--180
+[][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--180
+[] []
+ []
+
+
+LaTeX Warning: Float too large for page by 102.38351pt on input line 182.
+
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo1ExcentCarga.eps
+>
+(epstopdf)                    date: 2019-04-29 10:08:01
+(epstopdf)                    size: 23279 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo1ExcentCarga-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:17:36
+(epstopdf)                    size: 12676 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo1
+ExcentCarga-eps-converted-to.pdf histogramapropiedadesgrafo1ExcentCarga.eps>
+(epstopdf)             \includegraphics on input line 187.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo1ExcentCarga-eps-con
+verted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
+5> allowed
+<histogramapropiedadesgrafo1ExcentCarga-eps-converted-to.pdf, id=290, 332.24126
+pt x 322.20375pt>
+File: histogramapropiedadesgrafo1ExcentCarga-eps-converted-to.pdf Graphic file 
+(type pdf)
+<use histogramapropiedadesgrafo1ExcentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo1ExcentCarga-eps-converted-t
+o.pdf  used on input line 187.
+(pdftex.def)             Requested size: 199.34628pt x 193.32373pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo3ExcentCarga.eps
+>
+(epstopdf)                    date: 2019-04-29 10:08:03
+(epstopdf)                    size: 23620 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo3ExcentCarga-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:17:37
+(epstopdf)                    size: 12704 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo3
+ExcentCarga-eps-converted-to.pdf histogramapropiedadesgrafo3ExcentCarga.eps>
+(epstopdf)             \includegraphics on input line 188.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo3ExcentCarga-eps-con
+verted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
+5> allowed
+<histogramapropiedadesgrafo3ExcentCarga-eps-converted-to.pdf, id=291, 332.24126
+pt x 322.20375pt>
+File: histogramapropiedadesgrafo3ExcentCarga-eps-converted-to.pdf Graphic file 
+(type pdf)
+<use histogramapropiedadesgrafo3ExcentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo3ExcentCarga-eps-converted-t
+o.pdf  used on input line 188.
+(pdftex.def)             Requested size: 199.34628pt x 193.32373pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo3ExcentCarga.eps
+>
+(epstopdf)                    date: 2019-04-29 10:08:03
+(epstopdf)                    size: 23620 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo3ExcentCarga-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:17:37
+(epstopdf)                    size: 12704 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo3
+ExcentCarga-eps-converted-to.pdf histogramapropiedadesgrafo3ExcentCarga.eps>
+(epstopdf)             \includegraphics on input line 189.
+Package epstopdf Info: Output file is already uptodate.
+File: histogramapropiedadesgrafo3ExcentCarga-eps-converted-to.pdf Graphic file 
+(type pdf)
+<use histogramapropiedadesgrafo3ExcentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo3ExcentCarga-eps-converted-t
+o.pdf  used on input line 189.
+(pdftex.def)             Requested size: 199.34628pt x 193.32373pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo4ExcentCarga.eps
+>
+(epstopdf)                    date: 2019-04-29 10:08:05
+(epstopdf)                    size: 24293 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo4ExcentCarga-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:17:37
+(epstopdf)                    size: 12748 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo4
+ExcentCarga-eps-converted-to.pdf histogramapropiedadesgrafo4ExcentCarga.eps>
+(epstopdf)             \includegraphics on input line 190.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo4ExcentCarga-eps-con
+verted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
+5> allowed
+<histogramapropiedadesgrafo4ExcentCarga-eps-converted-to.pdf, id=292, 332.24126
+pt x 322.20375pt>
+File: histogramapropiedadesgrafo4ExcentCarga-eps-converted-to.pdf Graphic file 
+(type pdf)
+<use histogramapropiedadesgrafo4ExcentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo4ExcentCarga-eps-converted-t
+o.pdf  used on input line 190.
+(pdftex.def)             Requested size: 199.34628pt x 193.32373pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo5ExcentCarga.eps
+>
+(epstopdf)                    date: 2019-04-29 10:08:06
+(epstopdf)                    size: 23953 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo5ExcentCarga-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:17:38
+(epstopdf)                    size: 12720 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo5
+ExcentCarga-eps-converted-to.pdf histogramapropiedadesgrafo5ExcentCarga.eps>
+(epstopdf)             \includegraphics on input line 191.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo5ExcentCarga-eps-con
+verted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
+5> allowed
+<histogramapropiedadesgrafo5ExcentCarga-eps-converted-to.pdf, id=293, 332.24126
+pt x 322.20375pt>
+File: histogramapropiedadesgrafo5ExcentCarga-eps-converted-to.pdf Graphic file 
+(type pdf)
+<use histogramapropiedadesgrafo5ExcentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo5ExcentCarga-eps-converted-t
+o.pdf  used on input line 191.
+(pdftex.def)             Requested size: 199.34628pt x 193.32373pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--192
+[][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--192
+[] []
+ []
+
+
+LaTeX Warning: Float too large for page by 102.38351pt on input line 194.
+
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo1PageR.eps>
+(epstopdf)                    date: 2019-04-29 10:08:01
+(epstopdf)                    size: 23568 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo1PageR-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:25:30
+(epstopdf)                    size: 12166 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo1
+PageR-eps-converted-to.pdf histogramapropiedadesgrafo1PageR.eps>
+(epstopdf)             \includegraphics on input line 199.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo1PageR-eps-converted
+-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
+owed
+<histogramapropiedadesgrafo1PageR-eps-converted-to.pdf, id=294, 324.21124pt x 3
+22.20375pt>
+File: histogramapropiedadesgrafo1PageR-eps-converted-to.pdf Graphic file (type 
+pdf)
+<use histogramapropiedadesgrafo1PageR-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo1PageR-eps-converted-to.pdf 
+ used on input line 199.
+(pdftex.def)             Requested size: 194.52824pt x 193.32373pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo2PageR.eps>
+(epstopdf)                    date: 2019-04-29 10:08:02
+(epstopdf)                    size: 25297 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo2PageR-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:25:31
+(epstopdf)                    size: 12902 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo2
+PageR-eps-converted-to.pdf histogramapropiedadesgrafo2PageR.eps>
+(epstopdf)             \includegraphics on input line 200.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo2PageR-eps-converted
+-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
+owed
+<histogramapropiedadesgrafo2PageR-eps-converted-to.pdf, id=295, 334.24875pt x 3
+22.20375pt>
+File: histogramapropiedadesgrafo2PageR-eps-converted-to.pdf Graphic file (type 
+pdf)
+<use histogramapropiedadesgrafo2PageR-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo2PageR-eps-converted-to.pdf 
+ used on input line 200.
+(pdftex.def)             Requested size: 200.55078pt x 193.32373pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo3PageR.eps>
+(epstopdf)                    date: 2019-04-29 10:08:03
+(epstopdf)                    size: 23558 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo3PageR-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:25:31
+(epstopdf)                    size: 12181 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo3
+PageR-eps-converted-to.pdf histogramapropiedadesgrafo3PageR.eps>
+(epstopdf)             \includegraphics on input line 201.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo3PageR-eps-converted
+-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
+owed
+<histogramapropiedadesgrafo3PageR-eps-converted-to.pdf, id=296, 324.21124pt x 3
+22.20375pt>
+File: histogramapropiedadesgrafo3PageR-eps-converted-to.pdf Graphic file (type 
+pdf)
+<use histogramapropiedadesgrafo3PageR-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo3PageR-eps-converted-to.pdf 
+ used on input line 201.
+(pdftex.def)             Requested size: 194.52824pt x 193.32373pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo4PageR.eps>
+(epstopdf)                    date: 2019-04-29 10:08:05
+(epstopdf)                    size: 23914 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo4PageR-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:25:31
+(epstopdf)                    size: 12311 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo4
+PageR-eps-converted-to.pdf histogramapropiedadesgrafo4PageR.eps>
+(epstopdf)             \includegraphics on input line 202.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo4PageR-eps-converted
+-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
+owed
+<histogramapropiedadesgrafo4PageR-eps-converted-to.pdf, id=297, 334.24875pt x 3
+22.20375pt>
+File: histogramapropiedadesgrafo4PageR-eps-converted-to.pdf Graphic file (type 
+pdf)
+<use histogramapropiedadesgrafo4PageR-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo4PageR-eps-converted-to.pdf 
+ used on input line 202.
+(pdftex.def)             Requested size: 200.55078pt x 193.32373pt.
+Package epstopdf Info: Source file: <histogramapropiedadesgrafo5PageR.eps>
+(epstopdf)                    date: 2019-04-29 10:08:06
+(epstopdf)                    size: 23981 bytes
+(epstopdf)             Output file: <histogramapropiedadesgrafo5PageR-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2019-04-30 02:25:32
+(epstopdf)                    size: 12880 bytes
+(epstopdf)             Command: <epstopdf --outfile=histogramapropiedadesgrafo5
+PageR-eps-converted-to.pdf histogramapropiedadesgrafo5PageR.eps>
+(epstopdf)             \includegraphics on input line 203.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./histogramapropiedadesgrafo5PageR-eps-converted
+-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
+owed
+<histogramapropiedadesgrafo5PageR-eps-converted-to.pdf, id=298, 328.22626pt x 3
+22.20375pt>
+File: histogramapropiedadesgrafo5PageR-eps-converted-to.pdf Graphic file (type 
+pdf)
+<use histogramapropiedadesgrafo5PageR-eps-converted-to.pdf>
+Package pdftex.def Info: histogramapropiedadesgrafo5PageR-eps-converted-to.pdf 
+ used on input line 203.
+(pdftex.def)             Requested size: 196.93727pt x 193.32373pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--204
+[][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--204
+[] []
+ []
+
+
+LaTeX Warning: Float too large for page by 102.38351pt on input line 206.
+
+[8] [9 <./histogramapropiedadesgrafo1CoefAgrup-eps-converted-to.pdf> <./histogr
+amapropiedadesgrafo2CoefAgrup-eps-converted-to.pdf> <./histogramapropiedadesgra
+fo3CoefAgrup-eps-converted-to.pdf> <./histogramapropiedadesgrafo4CoefAgrup-eps-
+converted-to.pdf> <./histogramapropiedadesgrafo5CoefAgrup-eps-converted-to.pdf>
+] [10 <./histogramapropiedadesgrafo1CentCercania-eps-converted-to.pdf> <./histo
+gramapropiedadesgrafo2CentCercania-eps-converted-to.pdf> <./histogramapropiedad
+esgrafo3CentCercania-eps-converted-to.pdf> <./histogramapropiedadesgrafo4CentCe
+rcania-eps-converted-to.pdf> <./histogramapropiedadesgrafo5CentCercania-eps-con
+verted-to.pdf>] [11 <./histogramapropiedadesgrafo1CentCarga-eps-converted-to.pd
+f> <./histogramapropiedadesgrafo2CentCarga-eps-converted-to.pdf> <./histogramap
+ropiedadesgrafo3CentCarga-eps-converted-to.pdf> <./histogramapropiedadesgrafo4C
+entCarga-eps-converted-to.pdf> <./histogramapropiedadesgrafo5CentCarga-eps-conv
+erted-to.pdf>] [12 <./histogramapropiedadesgrafo1ExcentCarga-eps-converted-to.p
+df> <./histogramapropiedadesgrafo3ExcentCarga-eps-converted-to.pdf> <./histogra
+mapropiedadesgrafo4ExcentCarga-eps-converted-to.pdf> <./histogramapropiedadesgr
+afo5ExcentCarga-eps-converted-to.pdf>] [13 <./histogramapropiedadesgrafo1PageR-
+eps-converted-to.pdf> <./histogramapropiedadesgrafo2PageR-eps-converted-to.pdf>
+ <./histogramapropiedadesgrafo3PageR-eps-converted-to.pdf> <./histogramapropied
+adesgrafo4PageR-eps-converted-to.pdf> <./histogramapropiedadesgrafo5PageR-eps-c
+onverted-to.pdf>] (T5Paraunircsvfinal.py [14])
+Package epstopdf Info: Source file: <fig1a.eps>
+(epstopdf)                    date: 2019-04-29 14:06:21
+(epstopdf)                    size: 15624 bytes
+(epstopdf)             Output file: <fig1a-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 00:53:39
+(epstopdf)                    size: 10298 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig1a-eps-converted-to.pdf 
+fig1a.eps>
+(epstopdf)             \includegraphics on input line 222.
+Package epstopdf Info: Output file is already uptodate.
+File: fig1a-eps-converted-to.pdf Graphic file (type pdf)
+<use fig1a-eps-converted-to.pdf>
+Package pdftex.def Info: fig1a-eps-converted-to.pdf  used on input line 222.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+Package epstopdf Info: Source file: <fig1b1.eps>
+(epstopdf)                    date: 2019-04-29 19:29:16
+(epstopdf)                    size: 25143 bytes
+(epstopdf)             Output file: <fig1b1-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 05:13:35
+(epstopdf)                    size: 12155 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig1b1-eps-converted-to.pdf
+ fig1b1.eps>
+(epstopdf)             \includegraphics on input line 223.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./fig1b1-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<fig1b1-eps-converted-to.pdf, id=1051, 433.62pt x 289.08pt>
+File: fig1b1-eps-converted-to.pdf Graphic file (type pdf)
+<use fig1b1-eps-converted-to.pdf>
+Package pdftex.def Info: fig1b1-eps-converted-to.pdf  used on input line 223.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+Package epstopdf Info: Source file: <fig1bpeor.eps>
+(epstopdf)                    date: 2019-04-29 19:38:39
+(epstopdf)                    size: 22964 bytes
+(epstopdf)             Output file: <fig1bpeor-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 05:13:35
+(epstopdf)                    size: 11185 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig1bpeor-eps-converted-to.
+pdf fig1bpeor.eps>
+(epstopdf)             \includegraphics on input line 224.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./fig1bpeor-eps-converted-to.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<fig1bpeor-eps-converted-to.pdf, id=1052, 433.62pt x 289.08pt>
+File: fig1bpeor-eps-converted-to.pdf Graphic file (type pdf)
+<use fig1bpeor-eps-converted-to.pdf>
+Package pdftex.def Info: fig1bpeor-eps-converted-to.pdf  used on input line 224
+.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+
+Overfull \hbox (5.83652pt too wide) in paragraph at lines 222--225
+[][] []
+ []
+
+Package epstopdf Info: Source file: <fig2a.eps>
+(epstopdf)                    date: 2019-04-29 14:27:07
+(epstopdf)                    size: 15681 bytes
+(epstopdf)             Output file: <fig2a-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 00:53:39
+(epstopdf)                    size: 10304 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig2a-eps-converted-to.pdf 
+fig2a.eps>
+(epstopdf)             \includegraphics on input line 230.
+Package epstopdf Info: Output file is already uptodate.
+File: fig2a-eps-converted-to.pdf Graphic file (type pdf)
+<use fig2a-eps-converted-to.pdf>
+Package pdftex.def Info: fig2a-eps-converted-to.pdf  used on input line 230.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+Package epstopdf Info: Source file: <fig2b1.eps>
+(epstopdf)                    date: 2019-04-29 19:41:04
+(epstopdf)                    size: 25125 bytes
+(epstopdf)             Output file: <fig2b1-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 05:13:36
+(epstopdf)                    size: 12089 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig2b1-eps-converted-to.pdf
+ fig2b1.eps>
+(epstopdf)             \includegraphics on input line 231.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./fig2b1-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<fig2b1-eps-converted-to.pdf, id=1053, 433.62pt x 289.08pt>
+File: fig2b1-eps-converted-to.pdf Graphic file (type pdf)
+<use fig2b1-eps-converted-to.pdf>
+Package pdftex.def Info: fig2b1-eps-converted-to.pdf  used on input line 231.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+Package epstopdf Info: Source file: <fig2bpeor.eps>
+(epstopdf)                    date: 2019-04-29 19:42:05
+(epstopdf)                    size: 23449 bytes
+(epstopdf)             Output file: <fig2bpeor-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 05:13:36
+(epstopdf)                    size: 11374 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig2bpeor-eps-converted-to.
+pdf fig2bpeor.eps>
+(epstopdf)             \includegraphics on input line 232.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./fig2bpeor-eps-converted-to.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<fig2bpeor-eps-converted-to.pdf, id=1054, 433.62pt x 289.08pt>
+File: fig2bpeor-eps-converted-to.pdf Graphic file (type pdf)
+<use fig2bpeor-eps-converted-to.pdf>
+Package pdftex.def Info: fig2bpeor-eps-converted-to.pdf  used on input line 232
+.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+
+Overfull \hbox (5.83652pt too wide) in paragraph at lines 230--233
+[][] []
+ []
+
+Package epstopdf Info: Source file: <fig3a.eps>
+(epstopdf)                    date: 2019-04-29 14:38:33
+(epstopdf)                    size: 15759 bytes
+(epstopdf)             Output file: <fig3a-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 00:53:40
+(epstopdf)                    size: 10318 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig3a-eps-converted-to.pdf 
+fig3a.eps>
+(epstopdf)             \includegraphics on input line 239.
+Package epstopdf Info: Output file is already uptodate.
+File: fig3a-eps-converted-to.pdf Graphic file (type pdf)
+<use fig3a-eps-converted-to.pdf>
+Package pdftex.def Info: fig3a-eps-converted-to.pdf  used on input line 239.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+Package epstopdf Info: Source file: <fig3b1.eps>
+(epstopdf)                    date: 2019-04-29 19:43:08
+(epstopdf)                    size: 24546 bytes
+(epstopdf)             Output file: <fig3b1-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 05:23:33
+(epstopdf)                    size: 11862 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig3b1-eps-converted-to.pdf
+ fig3b1.eps>
+(epstopdf)             \includegraphics on input line 240.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./fig3b1-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<fig3b1-eps-converted-to.pdf, id=1055, 433.62pt x 289.08pt>
+File: fig3b1-eps-converted-to.pdf Graphic file (type pdf)
+<use fig3b1-eps-converted-to.pdf>
+Package pdftex.def Info: fig3b1-eps-converted-to.pdf  used on input line 240.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+Package epstopdf Info: Source file: <fig3bpeor.eps>
+(epstopdf)                    date: 2019-04-29 19:44:33
+(epstopdf)                    size: 23034 bytes
+(epstopdf)             Output file: <fig3bpeor-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 05:23:33
+(epstopdf)                    size: 11198 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig3bpeor-eps-converted-to.
+pdf fig3bpeor.eps>
+(epstopdf)             \includegraphics on input line 241.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./fig3bpeor-eps-converted-to.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<fig3bpeor-eps-converted-to.pdf, id=1056, 433.62pt x 289.08pt>
+File: fig3bpeor-eps-converted-to.pdf Graphic file (type pdf)
+<use fig3bpeor-eps-converted-to.pdf>
+Package pdftex.def Info: fig3bpeor-eps-converted-to.pdf  used on input line 241
+.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+
+Overfull \hbox (5.83652pt too wide) in paragraph at lines 239--242
+[][] []
+ []
+
+Package epstopdf Info: Source file: <fig4a.eps>
+(epstopdf)                    date: 2019-04-29 14:42:52
+(epstopdf)                    size: 18207 bytes
+(epstopdf)             Output file: <fig4a-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 00:53:40
+(epstopdf)                    size: 10406 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig4a-eps-converted-to.pdf 
+fig4a.eps>
+(epstopdf)             \includegraphics on input line 247.
+Package epstopdf Info: Output file is already uptodate.
+File: fig4a-eps-converted-to.pdf Graphic file (type pdf)
+<use fig4a-eps-converted-to.pdf>
+Package pdftex.def Info: fig4a-eps-converted-to.pdf  used on input line 247.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+Package epstopdf Info: Source file: <fig4b1.eps>
+(epstopdf)                    date: 2019-04-29 19:47:09
+(epstopdf)                    size: 30892 bytes
+(epstopdf)             Output file: <fig4b1-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 05:32:21
+(epstopdf)                    size: 12701 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig4b1-eps-converted-to.pdf
+ fig4b1.eps>
+(epstopdf)             \includegraphics on input line 248.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./fig4b1-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<fig4b1-eps-converted-to.pdf, id=1057, 433.62pt x 289.08pt>
+File: fig4b1-eps-converted-to.pdf Graphic file (type pdf)
+<use fig4b1-eps-converted-to.pdf>
+Package pdftex.def Info: fig4b1-eps-converted-to.pdf  used on input line 248.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+Package epstopdf Info: Source file: <fig4bpeor.eps>
+(epstopdf)                    date: 2019-04-29 19:48:05
+(epstopdf)                    size: 28171 bytes
+(epstopdf)             Output file: <fig4bpeor-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 05:32:22
+(epstopdf)                    size: 11537 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig4bpeor-eps-converted-to.
+pdf fig4bpeor.eps>
+(epstopdf)             \includegraphics on input line 249.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./fig4bpeor-eps-converted-to.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<fig4bpeor-eps-converted-to.pdf, id=1058, 433.62pt x 289.08pt>
+File: fig4bpeor-eps-converted-to.pdf Graphic file (type pdf)
+<use fig4bpeor-eps-converted-to.pdf>
+Package pdftex.def Info: fig4bpeor-eps-converted-to.pdf  used on input line 249
+.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+
+Overfull \hbox (5.83652pt too wide) in paragraph at lines 247--250
+[][] []
+ []
+
+Package epstopdf Info: Source file: <fig5a.eps>
+(epstopdf)                    date: 2019-04-29 15:00:44
+(epstopdf)                    size: 18164 bytes
+(epstopdf)             Output file: <fig5a-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 00:53:40
+(epstopdf)                    size: 10417 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig5a-eps-converted-to.pdf 
+fig5a.eps>
+(epstopdf)             \includegraphics on input line 255.
+Package epstopdf Info: Output file is already uptodate.
+File: fig5a-eps-converted-to.pdf Graphic file (type pdf)
+<use fig5a-eps-converted-to.pdf>
+Package pdftex.def Info: fig5a-eps-converted-to.pdf  used on input line 255.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+Package epstopdf Info: Source file: <fig5b1.eps>
+(epstopdf)                    date: 2019-04-29 19:50:27
+(epstopdf)                    size: 30532 bytes
+(epstopdf)             Output file: <fig5b1-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 05:32:22
+(epstopdf)                    size: 12581 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig5b1-eps-converted-to.pdf
+ fig5b1.eps>
+(epstopdf)             \includegraphics on input line 256.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./fig5b1-eps-converted-to.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<fig5b1-eps-converted-to.pdf, id=1059, 433.62pt x 289.08pt>
+File: fig5b1-eps-converted-to.pdf Graphic file (type pdf)
+<use fig5b1-eps-converted-to.pdf>
+Package pdftex.def Info: fig5b1-eps-converted-to.pdf  used on input line 256.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+Package epstopdf Info: Source file: <fig5bpeor.eps>
+(epstopdf)                    date: 2019-04-29 19:49:01
+(epstopdf)                    size: 28198 bytes
+(epstopdf)             Output file: <fig5bpeor-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 05:32:23
+(epstopdf)                    size: 11549 bytes
+(epstopdf)             Command: <epstopdf --outfile=fig5bpeor-eps-converted-to.
+pdf fig5bpeor.eps>
+(epstopdf)             \includegraphics on input line 257.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./fig5bpeor-eps-converted-to.pdf): PDF inclusion
+: found PDF version <1.7>, but at most version <1.5> allowed
+<fig5bpeor-eps-converted-to.pdf, id=1060, 433.62pt x 289.08pt>
+File: fig5bpeor-eps-converted-to.pdf Graphic file (type pdf)
+<use fig5bpeor-eps-converted-to.pdf>
+Package pdftex.def Info: fig5bpeor-eps-converted-to.pdf  used on input line 257
+.
+(pdftex.def)             Requested size: 216.80946pt x 144.53964pt.
+
+Overfull \hbox (5.83652pt too wide) in paragraph at lines 255--258
+[][] []
+ []
+
+[15] [16 <./fig1b1-eps-converted-to.pdf> <./fig1bpeor-eps-converted-to.pdf>]
+[17 <./fig2b1-eps-converted-to.pdf> <./fig2bpeor-eps-converted-to.pdf>]
+[18 <./fig3b1-eps-converted-to.pdf> <./fig3bpeor-eps-converted-to.pdf>]
+[19 <./fig4b1-eps-converted-to.pdf> <./fig4bpeor-eps-converted-to.pdf>]
+[20 <./fig5b1-eps-converted-to.pdf> <./fig5bpeor-eps-converted-to.pdf>]
+(T5ProTimeFLujo.py
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 128.
+
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/base\omlcmr.fd"
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 128.
+
+[21]) [22]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 282.
+ [23]
+Package epstopdf Info: Source file: <Imagenes/aboxplotCentCarga.eps>
+(epstopdf)                    date: 2019-04-30 03:39:59
+(epstopdf)                    size: 22040 bytes
+(epstopdf)             Output file: <Imagenes/aboxplotCentCarga-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2019-04-30 03:40:19
+(epstopdf)                    size: 12649 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/aboxplotCentCarga-
+eps-converted-to.pdf Imagenes/aboxplotCentCarga.eps>
+(epstopdf)             \includegraphics on input line 364.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/aboxplotCentCarga-eps-converted-to.pd
+f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Imagenes/aboxplotCentCarga-eps-converted-to.pdf, id=1232, 410.53375pt x 274.02
+374pt>
+File: Imagenes/aboxplotCentCarga-eps-converted-to.pdf Graphic file (type pdf)
+<use Imagenes/aboxplotCentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/aboxplotCentCarga-eps-converted-to.pdf  used 
+on input line 364.
+(pdftex.def)             Requested size: 123.16107pt x 82.20775pt.
+Package epstopdf Info: Source file: <Imagenes/aboxplotCentCercania.eps>
+(epstopdf)                    date: 2019-04-30 03:39:58
+(epstopdf)                    size: 28384 bytes
+(epstopdf)             Output file: <Imagenes/aboxplotCentCercania-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2019-04-30 03:40:20
+(epstopdf)                    size: 17176 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/aboxplotCentCercan
+ia-eps-converted-to.pdf Imagenes/aboxplotCentCercania.eps>
+(epstopdf)             \includegraphics on input line 365.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/aboxplotCentCercania-eps-converted-to
+.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowe
+d
+<Imagenes/aboxplotCentCercania-eps-converted-to.pdf, id=1233, 410.53375pt x 274
+.02374pt>
+File: Imagenes/aboxplotCentCercania-eps-converted-to.pdf Graphic file (type pdf
+)
+<use Imagenes/aboxplotCentCercania-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/aboxplotCentCercania-eps-converted-to.pdf  us
+ed on input line 365.
+(pdftex.def)             Requested size: 123.16107pt x 82.20775pt.
+Package epstopdf Info: Source file: <Imagenes/aboxplotCoefAgrup.eps>
+(epstopdf)                    date: 2019-04-30 03:39:57
+(epstopdf)                    size: 23757 bytes
+(epstopdf)             Output file: <Imagenes/aboxplotCoefAgrup-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2019-04-30 03:40:20
+(epstopdf)                    size: 14018 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/aboxplotCoefAgrup-
+eps-converted-to.pdf Imagenes/aboxplotCoefAgrup.eps>
+(epstopdf)             \includegraphics on input line 366.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/aboxplotCoefAgrup-eps-converted-to.pd
+f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Imagenes/aboxplotCoefAgrup-eps-converted-to.pdf, id=1234, 410.53375pt x 274.02
+374pt>
+File: Imagenes/aboxplotCoefAgrup-eps-converted-to.pdf Graphic file (type pdf)
+<use Imagenes/aboxplotCoefAgrup-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/aboxplotCoefAgrup-eps-converted-to.pdf  used 
+on input line 366.
+(pdftex.def)             Requested size: 123.16107pt x 82.20775pt.
+Package epstopdf Info: Source file: <Imagenes/aboxplotDistGrado.eps>
+(epstopdf)                    date: 2019-04-30 03:39:57
+(epstopdf)                    size: 26666 bytes
+(epstopdf)             Output file: <Imagenes/aboxplotDistGrado-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2019-04-30 03:40:21
+(epstopdf)                    size: 15809 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/aboxplotDistGrado-
+eps-converted-to.pdf Imagenes/aboxplotDistGrado.eps>
+(epstopdf)             \includegraphics on input line 367.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/aboxplotDistGrado-eps-converted-to.pd
+f): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Imagenes/aboxplotDistGrado-eps-converted-to.pdf, id=1235, 522.95375pt x 601.24
+625pt>
+File: Imagenes/aboxplotDistGrado-eps-converted-to.pdf Graphic file (type pdf)
+<use Imagenes/aboxplotDistGrado-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/aboxplotDistGrado-eps-converted-to.pdf  used 
+on input line 367.
+(pdftex.def)             Requested size: 156.88733pt x 180.37526pt.
+Package epstopdf Info: Source file: <Imagenes/aboxplotExcentCarga.eps>
+(epstopdf)                    date: 2019-04-30 03:39:59
+(epstopdf)                    size: 24077 bytes
+(epstopdf)             Output file: <Imagenes/aboxplotExcentCarga-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2019-04-30 03:40:21
+(epstopdf)                    size: 14306 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/aboxplotExcentCarg
+a-eps-converted-to.pdf Imagenes/aboxplotExcentCarga.eps>
+(epstopdf)             \includegraphics on input line 368.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/aboxplotExcentCarga-eps-converted-to.
+pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<Imagenes/aboxplotExcentCarga-eps-converted-to.pdf, id=1236, 410.53375pt x 274.
+02374pt>
+File: Imagenes/aboxplotExcentCarga-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Imagenes/aboxplotExcentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/aboxplotExcentCarga-eps-converted-to.pdf  use
+d on input line 368.
+(pdftex.def)             Requested size: 123.16107pt x 82.20775pt.
+Package epstopdf Info: Source file: <Imagenes/aboxplotPageR.eps>
+(epstopdf)                    date: 2019-04-30 03:40:00
+(epstopdf)                    size: 22080 bytes
+(epstopdf)             Output file: <Imagenes/aboxplotPageR-eps-converted-to.pd
+f>
+(epstopdf)                    date: 2019-04-30 03:40:21
+(epstopdf)                    size: 12682 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/aboxplotPageR-eps-
+converted-to.pdf Imagenes/aboxplotPageR.eps>
+(epstopdf)             \includegraphics on input line 369.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/aboxplotPageR-eps-converted-to.pdf): 
+PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Imagenes/aboxplotPageR-eps-converted-to.pdf, id=1237, 410.53375pt x 274.02374p
+t>
+File: Imagenes/aboxplotPageR-eps-converted-to.pdf Graphic file (type pdf)
+<use Imagenes/aboxplotPageR-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/aboxplotPageR-eps-converted-to.pdf  used on i
+nput line 369.
+(pdftex.def)             Requested size: 123.16107pt x 82.20775pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--370
+[][] [] []
+ []
+
+Package epstopdf Info: Source file: <Imagenes/tablatukeyTimeCentCarga.eps>
+(epstopdf)                    date: 2019-04-30 03:39:59
+(epstopdf)                    size: 29278 bytes
+(epstopdf)             Output file: <Imagenes/tablatukeyTimeCentCarga-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2019-04-30 03:50:44
+(epstopdf)                    size: 17472 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/tablatukeyTimeCent
+Carga-eps-converted-to.pdf Imagenes/tablatukeyTimeCentCarga.eps>
+(epstopdf)             \includegraphics on input line 377.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/tablatukeyTimeCentCarga-eps-converted
+-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
+owed
+<Imagenes/tablatukeyTimeCentCarga-eps-converted-to.pdf, id=1238, 634.37pt x 390
+.45876pt>
+File: Imagenes/tablatukeyTimeCentCarga-eps-converted-to.pdf Graphic file (type 
+pdf)
+<use Imagenes/tablatukeyTimeCentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/tablatukeyTimeCentCarga-eps-converted-to.pdf 
+ used on input line 377.
+(pdftex.def)             Requested size: 190.31245pt x 111.11597pt.
+Package epstopdf Info: Source file: <Imagenes/tablatukeyTimeCentCercania.eps>
+(epstopdf)                    date: 2019-04-30 03:39:58
+(epstopdf)                    size: 28427 bytes
+(epstopdf)             Output file: <Imagenes/tablatukeyTimeCentCercania-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 03:50:45
+(epstopdf)                    size: 17053 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/tablatukeyTimeCent
+Cercania-eps-converted-to.pdf Imagenes/tablatukeyTimeCentCercania.eps>
+(epstopdf)             \includegraphics on input line 378.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/tablatukeyTimeCentCercania-eps-conver
+ted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> 
+allowed
+<Imagenes/tablatukeyTimeCentCercania-eps-converted-to.pdf, id=1240, 634.37pt x 
+390.45876pt>
+File: Imagenes/tablatukeyTimeCentCercania-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+<use Imagenes/tablatukeyTimeCentCercania-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/tablatukeyTimeCentCercania-eps-converted-to.p
+df  used on input line 378.
+(pdftex.def)             Requested size: 190.31245pt x 111.11597pt.
+Package epstopdf Info: Source file: <Imagenes/tablatukeyTimeCoefAgrup.eps>
+(epstopdf)                    date: 2019-04-30 03:39:58
+(epstopdf)                    size: 30447 bytes
+(epstopdf)             Output file: <Imagenes/tablatukeyTimeCoefAgrup-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2019-04-30 03:50:45
+(epstopdf)                    size: 18104 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/tablatukeyTimeCoef
+Agrup-eps-converted-to.pdf Imagenes/tablatukeyTimeCoefAgrup.eps>
+(epstopdf)             \includegraphics on input line 379.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/tablatukeyTimeCoefAgrup-eps-converted
+-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
+owed
+<Imagenes/tablatukeyTimeCoefAgrup-eps-converted-to.pdf, id=1242, 634.37pt x 390
+.45876pt>
+File: Imagenes/tablatukeyTimeCoefAgrup-eps-converted-to.pdf Graphic file (type 
+pdf)
+<use Imagenes/tablatukeyTimeCoefAgrup-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/tablatukeyTimeCoefAgrup-eps-converted-to.pdf 
+ used on input line 379.
+(pdftex.def)             Requested size: 190.31245pt x 111.11597pt.
+Package epstopdf Info: Source file: <Imagenes/tablatukeyTimeDistGrado.eps>
+(epstopdf)                    date: 2019-04-30 03:39:57
+(epstopdf)                    size: 30063 bytes
+(epstopdf)             Output file: <Imagenes/tablatukeyTimeDistGrado-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2019-04-30 03:50:46
+(epstopdf)                    size: 17619 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/tablatukeyTimeDist
+Grado-eps-converted-to.pdf Imagenes/tablatukeyTimeDistGrado.eps>
+(epstopdf)             \includegraphics on input line 380.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/tablatukeyTimeDistGrado-eps-converted
+-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
+owed
+<Imagenes/tablatukeyTimeDistGrado-eps-converted-to.pdf, id=1244, 634.37pt x 390
+.45876pt>
+File: Imagenes/tablatukeyTimeDistGrado-eps-converted-to.pdf Graphic file (type 
+pdf)
+<use Imagenes/tablatukeyTimeDistGrado-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/tablatukeyTimeDistGrado-eps-converted-to.pdf 
+ used on input line 380.
+(pdftex.def)             Requested size: 190.31245pt x 111.11597pt.
+Package epstopdf Info: Source file: <Imagenes/tablatukeyTimeExcentCarga.eps>
+(epstopdf)                    date: 2019-04-30 03:39:59
+(epstopdf)                    size: 30605 bytes
+(epstopdf)             Output file: <Imagenes/tablatukeyTimeExcentCarga-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2019-04-30 03:50:46
+(epstopdf)                    size: 18116 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/tablatukeyTimeExce
+ntCarga-eps-converted-to.pdf Imagenes/tablatukeyTimeExcentCarga.eps>
+(epstopdf)             \includegraphics on input line 381.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/tablatukeyTimeExcentCarga-eps-convert
+ed-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> a
+llowed
+<Imagenes/tablatukeyTimeExcentCarga-eps-converted-to.pdf, id=1246, 634.37pt x 3
+90.45876pt>
+File: Imagenes/tablatukeyTimeExcentCarga-eps-converted-to.pdf Graphic file (typ
+e pdf)
+<use Imagenes/tablatukeyTimeExcentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/tablatukeyTimeExcentCarga-eps-converted-to.pd
+f  used on input line 381.
+(pdftex.def)             Requested size: 190.31245pt x 111.11597pt.
+Package epstopdf Info: Source file: <Imagenes/tablatukeyTimePageR.eps>
+(epstopdf)                    date: 2019-04-30 03:40:00
+(epstopdf)                    size: 32997 bytes
+(epstopdf)             Output file: <Imagenes/tablatukeyTimePageR-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2019-04-30 03:50:47
+(epstopdf)                    size: 19247 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/tablatukeyTimePage
+R-eps-converted-to.pdf Imagenes/tablatukeyTimePageR.eps>
+(epstopdf)             \includegraphics on input line 382.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/tablatukeyTimePageR-eps-converted-to.
+pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<Imagenes/tablatukeyTimePageR-eps-converted-to.pdf, id=1248, 636.3775pt x 390.4
+5876pt>
+File: Imagenes/tablatukeyTimePageR-eps-converted-to.pdf Graphic file (type pdf)
+
+<use Imagenes/tablatukeyTimePageR-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/tablatukeyTimePageR-eps-converted-to.pdf  use
+d on input line 382.
+(pdftex.def)             Requested size: 190.91472pt x 111.11597pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--383
+[][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--383
+[] []
+ []
+
+[24] [25 <./Imagenes/aboxplotCentCarga-eps-converted-to.pdf> <./Imagenes/aboxpl
+otCentCercania-eps-converted-to.pdf> <./Imagenes/aboxplotCoefAgrup-eps-converte
+d-to.pdf> <./Imagenes/aboxplotDistGrado-eps-converted-to.pdf> <./Imagenes/aboxp
+lotExcentCarga-eps-converted-to.pdf> <./Imagenes/aboxplotPageR-eps-converted-to
+.pdf>] [26 <./Imagenes/tablatukeyTimeCentCarga-eps-converted-to.pdf> <./Imagene
+s/tablatukeyTimeCentCercania-eps-converted-to.pdf> <./Imagenes/tablatukeyTimeCo
+efAgrup-eps-converted-to.pdf> <./Imagenes/tablatukeyTimeDistGrado-eps-converted
+-to.pdf> <./Imagenes/tablatukeyTimeExcentCarga-eps-converted-to.pdf> <./Imagene
+s/tablatukeyTimePageR-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <Imagenes/aboxplotflujomaxCentCarga.eps>
+(epstopdf)                    date: 2019-04-30 03:43:17
+(epstopdf)                    size: 23926 bytes
+(epstopdf)             Output file: <Imagenes/aboxplotflujomaxCentCarga-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2019-04-30 04:21:26
+(epstopdf)                    size: 13093 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/aboxplotflujomaxCe
+ntCarga-eps-converted-to.pdf Imagenes/aboxplotflujomaxCentCarga.eps>
+(epstopdf)             \includegraphics on input line 475.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/aboxplotflujomaxCentCarga-eps-convert
+ed-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> a
+llowed
+<Imagenes/aboxplotflujomaxCentCarga-eps-converted-to.pdf, id=1683, 410.53375pt 
+x 274.02374pt>
+File: Imagenes/aboxplotflujomaxCentCarga-eps-converted-to.pdf Graphic file (typ
+e pdf)
+<use Imagenes/aboxplotflujomaxCentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/aboxplotflujomaxCentCarga-eps-converted-to.pd
+f  used on input line 475.
+(pdftex.def)             Requested size: 123.16107pt x 82.20775pt.
+Package epstopdf Info: Source file: <Imagenes/aboxplotflujomaxCentCercania.eps>
+
+(epstopdf)                    date: 2019-04-30 03:43:17
+(epstopdf)                    size: 27143 bytes
+(epstopdf)             Output file: <Imagenes/aboxplotflujomaxCentCercania-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 04:21:27
+(epstopdf)                    size: 13714 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/aboxplotflujomaxCe
+ntCercania-eps-converted-to.pdf Imagenes/aboxplotflujomaxCentCercania.eps>
+(epstopdf)             \includegraphics on input line 476.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/aboxplotflujomaxCentCercania-eps-conv
+erted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5
+> allowed
+<Imagenes/aboxplotflujomaxCentCercania-eps-converted-to.pdf, id=1684, 410.53375
+pt x 274.02374pt>
+File: Imagenes/aboxplotflujomaxCentCercania-eps-converted-to.pdf Graphic file (
+type pdf)
+<use Imagenes/aboxplotflujomaxCentCercania-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/aboxplotflujomaxCentCercania-eps-converted-to
+.pdf  used on input line 476.
+(pdftex.def)             Requested size: 123.16107pt x 82.20775pt.
+Package epstopdf Info: Source file: <Imagenes/aboxplotflujomaxCoefAgrup.eps>
+(epstopdf)                    date: 2019-04-30 03:43:16
+(epstopdf)                    size: 26026 bytes
+(epstopdf)             Output file: <Imagenes/aboxplotflujomaxCoefAgrup-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2019-04-30 04:21:27
+(epstopdf)                    size: 13601 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/aboxplotflujomaxCo
+efAgrup-eps-converted-to.pdf Imagenes/aboxplotflujomaxCoefAgrup.eps>
+(epstopdf)             \includegraphics on input line 477.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/aboxplotflujomaxCoefAgrup-eps-convert
+ed-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> a
+llowed
+<Imagenes/aboxplotflujomaxCoefAgrup-eps-converted-to.pdf, id=1685, 410.53375pt 
+x 274.02374pt>
+File: Imagenes/aboxplotflujomaxCoefAgrup-eps-converted-to.pdf Graphic file (typ
+e pdf)
+<use Imagenes/aboxplotflujomaxCoefAgrup-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/aboxplotflujomaxCoefAgrup-eps-converted-to.pd
+f  used on input line 477.
+(pdftex.def)             Requested size: 123.16107pt x 82.20775pt.
+Package epstopdf Info: Source file: <Imagenes/aboxplotflujomaxDistGrado.eps>
+(epstopdf)                    date: 2019-04-30 03:43:15
+(epstopdf)                    size: 27353 bytes
+(epstopdf)             Output file: <Imagenes/aboxplotflujomaxDistGrado-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2019-04-30 04:21:28
+(epstopdf)                    size: 13857 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/aboxplotflujomaxDi
+stGrado-eps-converted-to.pdf Imagenes/aboxplotflujomaxDistGrado.eps>
+(epstopdf)             \includegraphics on input line 478.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/aboxplotflujomaxDistGrado-eps-convert
+ed-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> a
+llowed
+<Imagenes/aboxplotflujomaxDistGrado-eps-converted-to.pdf, id=1686, 522.95375pt 
+x 601.24625pt>
+File: Imagenes/aboxplotflujomaxDistGrado-eps-converted-to.pdf Graphic file (typ
+e pdf)
+<use Imagenes/aboxplotflujomaxDistGrado-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/aboxplotflujomaxDistGrado-eps-converted-to.pd
+f  used on input line 478.
+(pdftex.def)             Requested size: 156.88733pt x 180.37526pt.
+Package epstopdf Info: Source file: <Imagenes/aboxplotflujomaxExcentCarga.eps>
+(epstopdf)                    date: 2019-04-30 03:43:18
+(epstopdf)                    size: 26450 bytes
+(epstopdf)             Output file: <Imagenes/aboxplotflujomaxExcentCarga-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 04:21:28
+(epstopdf)                    size: 13788 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/aboxplotflujomaxEx
+centCarga-eps-converted-to.pdf Imagenes/aboxplotflujomaxExcentCarga.eps>
+(epstopdf)             \includegraphics on input line 479.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/aboxplotflujomaxExcentCarga-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<Imagenes/aboxplotflujomaxExcentCarga-eps-converted-to.pdf, id=1687, 410.53375p
+t x 274.02374pt>
+File: Imagenes/aboxplotflujomaxExcentCarga-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use Imagenes/aboxplotflujomaxExcentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/aboxplotflujomaxExcentCarga-eps-converted-to.
+pdf  used on input line 479.
+(pdftex.def)             Requested size: 123.16107pt x 82.20775pt.
+Package epstopdf Info: Source file: <Imagenes/aboxplotflujomaxPageR.eps>
+(epstopdf)                    date: 2019-04-30 03:43:18
+(epstopdf)                    size: 25613 bytes
+(epstopdf)             Output file: <Imagenes/aboxplotflujomaxPageR-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2019-04-30 04:21:29
+(epstopdf)                    size: 12844 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/aboxplotflujomaxPa
+geR-eps-converted-to.pdf Imagenes/aboxplotflujomaxPageR.eps>
+(epstopdf)             \includegraphics on input line 480.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/aboxplotflujomaxPageR-eps-converted-t
+o.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allow
+ed
+<Imagenes/aboxplotflujomaxPageR-eps-converted-to.pdf, id=1688, 410.53375pt x 27
+4.02374pt>
+File: Imagenes/aboxplotflujomaxPageR-eps-converted-to.pdf Graphic file (type pd
+f)
+<use Imagenes/aboxplotflujomaxPageR-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/aboxplotflujomaxPageR-eps-converted-to.pdf  u
+sed on input line 480.
+(pdftex.def)             Requested size: 123.16107pt x 82.20775pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 475--481
+[][] [] []
+ []
+
+Package epstopdf Info: Source file: <Imagenes/tablatukeyflujomaxCentCarga.eps>
+(epstopdf)                    date: 2019-04-30 03:43:17
+(epstopdf)                    size: 28287 bytes
+(epstopdf)             Output file: <Imagenes/tablatukeyflujomaxCentCarga-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 04:26:28
+(epstopdf)                    size: 17167 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/tablatukeyflujomax
+CentCarga-eps-converted-to.pdf Imagenes/tablatukeyflujomaxCentCarga.eps>
+(epstopdf)             \includegraphics on input line 486.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/tablatukeyflujomaxCentCarga-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<Imagenes/tablatukeyflujomaxCentCarga-eps-converted-to.pdf, id=1689, 634.37pt x
+ 390.45876pt>
+File: Imagenes/tablatukeyflujomaxCentCarga-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use Imagenes/tablatukeyflujomaxCentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/tablatukeyflujomaxCentCarga-eps-converted-to.
+pdf  used on input line 486.
+(pdftex.def)             Requested size: 190.31245pt x 111.11597pt.
+Package epstopdf Info: Source file: <Imagenes/tablatukeyflujomaxCentCercania.ep
+s>
+(epstopdf)                    date: 2019-04-30 03:43:17
+(epstopdf)                    size: 28557 bytes
+(epstopdf)             Output file: <Imagenes/tablatukeyflujomaxCentCercania-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 04:26:28
+(epstopdf)                    size: 17464 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/tablatukeyflujomax
+CentCercania-eps-converted-to.pdf Imagenes/tablatukeyflujomaxCentCercania.eps>
+(epstopdf)             \includegraphics on input line 487.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/tablatukeyflujomaxCentCercania-eps-co
+nverted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1
+.5> allowed
+<Imagenes/tablatukeyflujomaxCentCercania-eps-converted-to.pdf, id=1691, 634.37p
+t x 390.45876pt>
+File: Imagenes/tablatukeyflujomaxCentCercania-eps-converted-to.pdf Graphic file
+ (type pdf)
+<use Imagenes/tablatukeyflujomaxCentCercania-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/tablatukeyflujomaxCentCercania-eps-converted-
+to.pdf  used on input line 487.
+(pdftex.def)             Requested size: 190.31245pt x 111.11597pt.
+Package epstopdf Info: Source file: <Imagenes/tablatukeyflujomaxCoefAgrup.eps>
+(epstopdf)                    date: 2019-04-30 03:43:16
+(epstopdf)                    size: 30021 bytes
+(epstopdf)             Output file: <Imagenes/tablatukeyflujomaxCoefAgrup-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 04:26:29
+(epstopdf)                    size: 18087 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/tablatukeyflujomax
+CoefAgrup-eps-converted-to.pdf Imagenes/tablatukeyflujomaxCoefAgrup.eps>
+(epstopdf)             \includegraphics on input line 488.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/tablatukeyflujomaxCoefAgrup-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<Imagenes/tablatukeyflujomaxCoefAgrup-eps-converted-to.pdf, id=1693, 634.37pt x
+ 390.45876pt>
+File: Imagenes/tablatukeyflujomaxCoefAgrup-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use Imagenes/tablatukeyflujomaxCoefAgrup-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/tablatukeyflujomaxCoefAgrup-eps-converted-to.
+pdf  used on input line 488.
+(pdftex.def)             Requested size: 190.31245pt x 111.11597pt.
+Package epstopdf Info: Source file: <Imagenes/tablatukeyflujomaxDistGrado.eps>
+(epstopdf)                    date: 2019-04-30 03:43:16
+(epstopdf)                    size: 29854 bytes
+(epstopdf)             Output file: <Imagenes/tablatukeyflujomaxDistGrado-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2019-04-30 04:26:29
+(epstopdf)                    size: 18254 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/tablatukeyflujomax
+DistGrado-eps-converted-to.pdf Imagenes/tablatukeyflujomaxDistGrado.eps>
+(epstopdf)             \includegraphics on input line 489.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/tablatukeyflujomaxDistGrado-eps-conve
+rted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5>
+ allowed
+<Imagenes/tablatukeyflujomaxDistGrado-eps-converted-to.pdf, id=1695, 634.37pt x
+ 390.45876pt>
+File: Imagenes/tablatukeyflujomaxDistGrado-eps-converted-to.pdf Graphic file (t
+ype pdf)
+<use Imagenes/tablatukeyflujomaxDistGrado-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/tablatukeyflujomaxDistGrado-eps-converted-to.
+pdf  used on input line 489.
+(pdftex.def)             Requested size: 190.31245pt x 111.11597pt.
+Package epstopdf Info: Source file: <Imagenes/tablatukeyflujomaxExcentCarga.eps
+>
+(epstopdf)                    date: 2019-04-30 03:43:18
+(epstopdf)                    size: 32366 bytes
+(epstopdf)             Output file: <Imagenes/tablatukeyflujomaxExcentCarga-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2019-04-30 04:26:29
+(epstopdf)                    size: 19659 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/tablatukeyflujomax
+ExcentCarga-eps-converted-to.pdf Imagenes/tablatukeyflujomaxExcentCarga.eps>
+(epstopdf)             \includegraphics on input line 490.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/tablatukeyflujomaxExcentCarga-eps-con
+verted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.
+5> allowed
+<Imagenes/tablatukeyflujomaxExcentCarga-eps-converted-to.pdf, id=1697, 634.37pt
+ x 390.45876pt>
+File: Imagenes/tablatukeyflujomaxExcentCarga-eps-converted-to.pdf Graphic file 
+(type pdf)
+<use Imagenes/tablatukeyflujomaxExcentCarga-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/tablatukeyflujomaxExcentCarga-eps-converted-t
+o.pdf  used on input line 490.
+(pdftex.def)             Requested size: 190.31245pt x 111.11597pt.
+Package epstopdf Info: Source file: <Imagenes/tablatukeyflujomaxPageR.eps>
+(epstopdf)                    date: 2019-04-30 03:43:18
+(epstopdf)                    size: 28879 bytes
+(epstopdf)             Output file: <Imagenes/tablatukeyflujomaxPageR-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2019-04-30 04:26:30
+(epstopdf)                    size: 17706 bytes
+(epstopdf)             Command: <epstopdf --outfile=Imagenes/tablatukeyflujomax
+PageR-eps-converted-to.pdf Imagenes/tablatukeyflujomaxPageR.eps>
+(epstopdf)             \includegraphics on input line 491.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./Imagenes/tablatukeyflujomaxPageR-eps-converted
+-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> all
+owed
+<Imagenes/tablatukeyflujomaxPageR-eps-converted-to.pdf, id=1699, 634.37pt x 390
+.45876pt>
+File: Imagenes/tablatukeyflujomaxPageR-eps-converted-to.pdf Graphic file (type 
+pdf)
+<use Imagenes/tablatukeyflujomaxPageR-eps-converted-to.pdf>
+Package pdftex.def Info: Imagenes/tablatukeyflujomaxPageR-eps-converted-to.pdf 
+ used on input line 491.
+(pdftex.def)             Requested size: 190.31245pt x 111.11597pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--492
+[][] []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 486--492
+[] []
+ []
+
+[27] [28 <./Imagenes/aboxplotflujomaxCentCarga-eps-converted-to.pdf> <./Imagene
+s/aboxplotflujomaxCentCercania-eps-converted-to.pdf> <./Imagenes/aboxplotflujom
+axCoefAgrup-eps-converted-to.pdf> <./Imagenes/aboxplotflujomaxDistGrado-eps-con
+verted-to.pdf> <./Imagenes/aboxplotflujomaxExcentCarga-eps-converted-to.pdf> <.
+/Imagenes/aboxplotflujomaxPageR-eps-converted-to.pdf>] [29 <./Imagenes/tablatuk
+eyflujomaxCentCarga-eps-converted-to.pdf> <./Imagenes/tablatukeyflujomaxCentCer
+cania-eps-converted-to.pdf> <./Imagenes/tablatukeyflujomaxCoefAgrup-eps-convert
+ed-to.pdf> <./Imagenes/tablatukeyflujomaxDistGrado-eps-converted-to.pdf> <./Ima
+genes/tablatukeyflujomaxExcentCarga-eps-converted-to.pdf> <./Imagenes/tablatuke
+yflujomaxPageR-eps-converted-to.pdf>] ("Tarea 5_Rectificada.bbl"
+Underfull \hbox (badness 10000) in paragraph at lines 14--20
+\OT1/cmtt/m/n/10 networkx-[]1 . 10 / reference / generated / networkx . MultiDi
+Graph . add _ edge . html$\OT1/cmr/m/n/10 , .
+ []
+
+
+Underfull \hbox (badness 4403) in paragraph at lines 27--32
+[]\OT1/cmr/m/n/10 Desarrolladores de Net-workx.  $\OT1/cmtt/m/n/10 ttps : / / h
+ttps : / / networkx . github . io / documentation /
+ []
+
+) [30] ("Tarea 5_Rectificada.aux"
+LaTeX Info: Redefining \. on input line 10.
+LaTeX Info: Redefining \% on input line 10.
+)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6042 strings out of 492946
+ 95615 string characters out of 3135527
+ 680458 words of memory out of 3000000
+ 9769 multiletter control sequences out of 15000+200000
+ 10402 words of font info for 38 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,9n,43p,903b,1678s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "Tarea 5_Rectificada.pdf" (30 pages, 1048118 bytes).
+PDF statistics:
+ 2181 PDF objects out of 2487 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 473 words of extra memory for PDF output out of 10000 (max. 10000000)
+
